@@ -1,0 +1,1045 @@
+
+    {
+        "Prodelivery": [
+          {
+            "categoria": "Movilidad Geográfica",
+            "artículo": "Artículo 11",
+            "titulo": "Movilidad geográfica: Traslados y desplazamientos",
+            "contenido": {
+              "descripcion": "Este artículo trata sobre los cambios de ubicación en el trabajo y se divide en traslados y desplazamientos.",
+              "traslados": {
+                "definicion": "Implica un cambio definitivo de residencia, obligando al trabajador a cambiar su lugar habitual de residencia por motivos laborales.",
+                "requisitos": [
+                  "Razones económicas, técnicas, organizativas o productivas.",
+                  "El traslado debe ser justificado y notificado con 30 días de antelación."
+                ],
+                "derechos_trabajador": [
+                  "Aceptar el traslado y recibir una compensación por gastos de mudanza.",
+                  "Rechazar el traslado y extinguir su contrato con una indemnización de 20 días por año trabajado (máximo 12 mensualidades).",
+                  "Impugnar el traslado ante los tribunales si considera que no está justificado."
+                ]
+              },
+              "desplazamientos": {
+                "definicion": "Es un cambio temporal de lugar de trabajo, sin necesidad de cambiar de residencia. Tiene una duración máxima de 12 meses en un período de 3 años.",
+                "compensacion": "La empresa debe cubrir los gastos de viaje y alojamiento.",
+                "plazo_aviso": [
+                  "5 días antes si el desplazamiento dura más de 3 meses.",
+                  "Tiempo suficiente en el resto de los casos."
+                ]
+              },
+              "excepciones": {
+                "circunstancias_familiares": "Si el trabajador tiene circunstancias familiares graves (ejemplo: hijos pequeños, familiares dependientes), la empresa debe considerar su situación antes de trasladarlo o desplazarlo.",
+                "desacuerdo": "Si hay desacuerdo, el trabajador puede acudir a los tribunales."
+              }
+            }
+          },
+      
+      
+  
+    {
+      "categoria": "Movilidad Geográfica",
+      "artículo": "Artículo 11",
+      "titulo": "Movilidad geográfica: Traslados y desplazamientos",
+      "contenido": {
+        "descripcion": "Este artículo trata sobre los cambios de ubicación en el trabajo y se divide en traslados y desplazamientos.",
+        "traslados": {
+          "definicion": "Implica un cambio definitivo de residencia, obligando al trabajador a cambiar su lugar habitual de residencia por motivos laborales.",
+          "requisitos": [
+            "Razones económicas, técnicas, organizativas o productivas.",
+            "El traslado debe ser justificado y notificado con 30 días de antelación."
+          ],
+          "derechos_trabajador": [
+            "Aceptar el traslado y recibir una compensación por gastos de mudanza.",
+            "Rechazar el traslado y extinguir su contrato con una indemnización de 20 días por año trabajado (máximo 12 mensualidades).",
+            "Impugnar el traslado ante los tribunales si considera que no está justificado."
+          ]
+        },
+        "desplazamientos": {
+          "definicion": "Es un cambio temporal de lugar de trabajo, sin necesidad de cambiar de residencia. Tiene una duración máxima de 12 meses en un período de 3 años.",
+          "compensacion": "La empresa debe cubrir los gastos de viaje y alojamiento.",
+          "plazo_aviso": [
+            "5 días antes si el desplazamiento dura más de 3 meses.",
+            "Tiempo suficiente en el resto de los casos."
+          ]
+        },
+        "excepciones": {
+          "circunstancias_familiares": "Si el trabajador tiene circunstancias familiares graves (ejemplo: hijos pequeños, familiares dependientes), la empresa debe considerar su situación antes de trasladarlo o desplazarlo.",
+          "desacuerdo": "Si hay desacuerdo, el trabajador puede acudir a los tribunales."
+        }
+      }
+    },
+
+
+    
+
+      
+          {
+            "categoria": "Variabilidad en el lugar de prestación de servicios",
+            "artículo": "Artículo 12",
+            "titulo": "Variabilidad en el lugar de prestación de servicios",
+            "contenido": {
+              "descripcion": "La dirección de la empresa puede cambiar a los trabajadores de centro de trabajo por cuestiones organizativas, técnicas o productivas, trasladándolos a otro centro en la misma localidad o en municipios limítrofes.",
+              "detalles": {
+                "vacaciones": "Las personas trabajadoras trasladadas mantendrán las vacaciones fijadas previamente en el centro de origen, salvo que sea la persona trabajadora quien haya solicitado voluntariamente el cambio.",
+                "area_metropolitana": "En ciudades con área metropolitana, se puede variar el lugar de prestación de servicios dentro de los límites de dicha área, sin que esto implique movilidad geográfica.",
+                "comunicaciones": [
+                  "Si el cambio de centro es coyuntural, la persona trabajadora se trasladará por el tiempo imprescindible sin necesidad de preaviso.",
+                  "Si el cambio de centro es definitivo, se debe preavisar con una antelación mínima de 4 días.",
+                  "Si el cambio tiene una duración igual o superior a dos semanas, la notificación será por escrito."
+                ],
+                "restricciones": {
+                  "periodo_para_vuelta": "La persona trabajadora no podrá ser trasladada nuevamente en un período de 4 meses, salvo por necesidad organizativa o para volver a su centro de origen o por solicitud voluntaria.",
+                  "prioridad_para_representantes": "Los representantes de los trabajadores tienen prioridad para el retorno a su centro de origen cuando haya vacantes.",
+                  "prioridad_familiares": "Las personas trabajadoras con familiares a su cargo, con enfermedades graves o discapacidad, tienen prioridad para retornar a su centro de origen cuando haya vacantes."
+                },
+                "circunscripcion_electoral": "En casos donde la circunscripción electoral esté limitada al centro de trabajo, los representantes no pueden ser trasladados sin su consentimiento expreso."
+              }
+            }
+          },
+       
+
+      
+          {
+            "categoria": "Rendimiento Mínimo en Reparto",
+            "artículo": "Artículo 13",
+            "titulo": "Rendimiento mínimo exigible a la persona trabajadora que realice las tareas de reparto",
+            "contenido": {
+              "descripcion": "Este artículo regula el rendimiento mínimo exigible a las personas trabajadoras que realizan tareas de reparto, considerando las características especiales de su actividad y los contratos a tiempo parcial.",
+              "rendimiento_minimo": {
+                "definicion": "El rendimiento mínimo exigible es de tres direcciones por hora dentro de la jornada laboral pactada en el convenio.",
+                "direcciones": {
+                  "definicion": "Una dirección es el servicio que va desde el establecimiento hasta el domicilio del cliente o el punto de destino, regresando después de efectuar la entrega.",
+                  "multidireccion": "Una multidirección es el servicio que transcurre desde el establecimiento hasta los diferentes puntos de entrega, regresando al centro de trabajo después de la última entrega. A efectos de cobro, se computan todas las entregas realizadas en cada destino, independientemente de la cantidad de productos transportados."
+                },
+                "comprobantes": "Las empresas deben entregar mensualmente a cada persona trabajadora comprobantes sellados y firmados de las direcciones o viajes realizados.",
+                "excepciones": {
+                  "centros_trabajo_area_extensa": "En centros de trabajo cuya área de reparto exceda las habituales (por ejemplo, urbanizaciones, zonas rurales, polígonos industriales), el rendimiento mínimo exigible será de dos direcciones cuando el desplazamiento normal implique un recorrido no inferior a 30 minutos.",
+                  "distribucion_repartos_gran_desplazamiento": "Los repartos que impliquen un gran desplazamiento deberán ser distribuidos equitativamente entre el conjunto de las personas trabajadoras de reparto, para evitar que se adjudiquen exclusivamente a una sola persona."
+                }
+              }
+            }
+          },
+          {
+            "categoria":"Contratación y empleo",
+            "articulo": "15",
+            "titulo": "Contratación",
+            "contenido": {
+              "clasificacion_trabajadores": {
+                "fijos": {
+                  "tipos": ["jornada completa", "a tiempo parcial"]
+                },
+                "temporales": {
+                  "tipos": ["jornada completa", "a tiempo parcial"]
+                },
+                "otros_contratos": "Pueden celebrarse otros tipos de contratos según la legislación laboral vigente."
+              },
+              "caracteristicas_sector": {
+                "actividad": "El servicio se concentra principalmente en fines de semana, períodos vacacionales y eventos especiales (como retransmisiones deportivas).",
+                "trabajadores": "Principalmente jóvenes y estudiantes que trabajan fuera de sus horarios lectivos.",
+                "contratacion_parcial": "Se considera importante la contratación a tiempo parcial debido a la naturaleza del sector."
+              },
+              "fomento_contratacion_indefinida": {
+                "normativa": "Según el artículo 15.5 del Estatuto de los Trabajadores, si se concatenan 2 o más contratos temporales por circunstancias de la producción que superen los 18 meses en 24 meses, el contrato debe convertirse en indefinido.",
+                "puestos_fijos": "Si un puesto ha estado ocupado durante más de 18 meses en un período de 24 meses, se convierte en un puesto fijo."
+              }
+            }
+          },
+          {
+            "categoria":"Contratación y empleo",
+            "articulo": "17",
+            "titulo": "Contrato por circunstancias de la producción",
+            "contenido": {
+              "causas_contratacion_temporal": "Las empresas pueden formalizar contratos temporales debido a un incremento ocasional e imprevisible de la actividad o desajuste temporal entre empleo disponible y requerido. No se aplica a los supuestos del artículo 16.1 del Estatuto de los Trabajadores.",
+              "oscilaciones_incluidas": "Se incluyen las oscilaciones derivadas de las vacaciones anuales de los trabajadores.",
+              "duracion_maxima": "La duración del contrato no puede ser superior a 6 meses. Si se pacta por menos tiempo, se puede prorrogar una vez, sin exceder los 6 meses.",
+              "contratos_ocasionaLes_previsibles": {
+                "uso_maximo": "Se pueden realizar contratos para situaciones previsibles con una duración máxima de 90 días al año.",
+                "no_continuidad": "Los 90 días no pueden ser utilizados de manera continua.",
+                "informacion_anual": "Las empresas deben informar a los representantes legales de los trabajadores sobre el uso previsto de estos contratos en el último trimestre del año."
+              },
+              "requisitos_contrato_temporal": "El contrato debe especificar claramente la causa temporal, las circunstancias que la justifican y la duración prevista.",
+              "normativa_adicional": "Lo no regulado por este artículo se regirá por el artículo 15 del Estatuto de los Trabajadores y normativa aplicable."
+            }
+          },
+          {
+            "categoria":"Contratación y empleo",
+            "articulo": "18",
+            "titulo": "Contrato por sustitución",
+            "contenido": {
+              "sustitucion_reserva_puesto": {
+                "descripcion": "Se puede formalizar un contrato para sustituir a una persona trabajadora con derecho a reserva de puesto de trabajo. El contrato debe especificar el nombre de la persona sustituida y la causa de la sustitución.",
+                "inicio_servicio": "El servicio puede iniciarse antes de la ausencia de la persona sustituida, pero solo durante un máximo de 15 días."
+              },
+              "sustitucion_jornada_reducida": {
+                "descripcion": "El contrato puede celebrarse para completar una jornada reducida por otro trabajador, siempre que dicha reducción esté justificada por causas legales o en el convenio colectivo.",
+                "detalles": "Debe especificarse en el contrato el nombre de la persona sustituida y la causa de la sustitución."
+              },
+              "sustitucion_seleccion_promocion": {
+                "descripcion": "El contrato también puede usarse para cubrir un puesto temporalmente durante un proceso de selección o promoción para un puesto fijo.",
+                "duracion_maxima": "La duración máxima será de 3 meses o el plazo inferior indicado en el convenio colectivo.",
+                "restricciones": "No se puede celebrar un nuevo contrato con el mismo objeto una vez superada la duración máxima."
+              },
+              "normativa_adicional": "Lo no regulado en este artículo se regirá por el artículo 15 del Estatuto de los Trabajadores y normativa aplicable."
+            }
+          },
+
+          {
+            "categoria":"Contratación y empleo",
+            "articulo": "19",
+            "titulo": "Contrato a tiempo parcial",
+            "contenido": {
+              "definicion_duracion": {
+                "descripcion": "El contrato se entiende a tiempo parcial cuando la prestación de servicios es inferior a la jornada anual máxima establecida en el convenio colectivo.",
+                "tipos": [
+                  "Indefinido",
+                  "Duración determinada (según legislación)"
+                ]
+              },
+              "formalizacion": {
+                "descripcion": "El contrato debe formalizarse por escrito y especificar las horas ordinarias de trabajo y su distribución."
+              },
+              "restricciones_horas_extraordinarias": {
+                "descripcion": "Los trabajadores a tiempo parcial no pueden realizar horas extraordinarias, salvo en los casos previstos en el artículo 35.3 del Estatuto de los Trabajadores."
+              },
+              "horas_complementarias": {
+                "descripcion": "Las horas complementarias son las horas adicionales acordadas para el contrato a tiempo parcial.",
+                "restricciones": "No pueden superar el 45% de las horas ordinarias y la suma no debe exceder la jornada anual máxima.",
+                "preaviso": "El trabajador debe conocer el día y la hora con 7 días de antelación.",
+                "retribucion": "Se retribuyen como horas ordinarias y se incluyen en los recibos de salarios y documentos de cotización."
+              },
+              "exclusion_horas_complementarias": {
+                "descripcion": "Los trabajadores pueden excluir hasta 2 meses al año de horas complementarias por responsabilidades familiares o necesidades formativas.",
+                "preaviso": "Se debe notificar con 15 días de antelación."
+              },
+              "renuncia_pacto_horas_complementarias": {
+                "descripcion": "Los trabajadores pueden renunciar al pacto de horas complementarias con un preaviso de 15 días, tras un año de formalización.",
+                "razones": [
+                  "Responsabilidades familiares (artículo 37.6 del ET)",
+                  "Necesidades formativas o estudios oficiales",
+                  "Incompatibilidad con otro contrato a tiempo parcial"
+                ]
+              },
+              "consolidacion_horas_complementarias": {
+                "descripcion": "Los trabajadores que hayan agotado las horas complementarias en un año natural pueden consolidar el 20% en el año siguiente, aumentando su jornada ordinaria.",
+                "solicitud": "El trabajador debe solicitarlo por escrito en enero del ejercicio correspondiente."
+              },
+              "distribucion_jornada": {
+                "descripcion": "La distribución de la jornada a tiempo parcial se regirá por el artículo 26 del convenio."
+              },
+              "normativa_adicional": "Lo no previsto en este artículo se regirá por el artículo 12 del Estatuto de los Trabajadores y normativa aplicable."
+            }
+          },
+
+          {
+            "categoria": "Contratación y empleo",
+            "articulo": 20,
+            "titulo": "Contrato de formación en alternancia",
+            "contenido": "Esta modalidad contractual, tendrá por objeto compatibilizar la actividad laboral retribuida con los correspondientes procesos formativos en el ámbito de la formación profesional, los estudios universitarios o del Catálogo de especialidades formativas del Sistema Nacional de Empleo. Exclusivamente procederá utilizar esta modalidad contractual con personas empleadas incluidas en los grupos II de las Áreas de Oficinas, Tiendas y Fábrica.",
+            "reglas": [
+              "Se podrá celebrar con personas que carezcan de la cualificación profesional reconocida.",
+              "Si se suscribe en el marco de certificados de profesionalidad de nivel 1 y 2, el contrato solo podrá ser concertado con personas de hasta treinta años."
+            ]
+            
+          },
+
+          {
+            "categoria": "Contratación y empleo",
+            "articulo": 21,
+            "titulo": "Contrato de trabajo temporal",
+            "contenido": "Este tipo de contrato se utiliza para cubrir necesidades temporales de las empresas, como la sustitución de trabajadores o la realización de trabajos extraordinarios. La duración máxima es de seis meses, aunque puede ampliarse dependiendo de las circunstancias.",
+            "reglas": [
+              "Debe especificarse la causa que justifique la temporalidad del contrato.",
+              "El contrato debe formalizarse por escrito."
+            ]
+            
+          },
+          {
+            "categoria": "Contratación y empleo",
+            "articulo": 22,
+            "titulo": "Contrato de trabajo a tiempo parcial",
+            "contenido": "El contrato a tiempo parcial es un acuerdo laboral en el que la jornada de trabajo es inferior a la de un trabajador a tiempo completo. Este contrato debe indicar el número de horas de trabajo que el empleado realizará, y puede ser temporal o indefinido.",
+            "reglas": [
+              "La jornada laboral debe estar claramente definida en el contrato.",
+              "Se deben respetar los derechos laborales de los trabajadores a tiempo parcial."
+            ]
+            
+          },
+
+          {
+            "categoria": "Contratación y empleo",
+            "articulo": 23,
+            "titulo": "Contrato de trabajo a distancia",
+            "contenido": "Este contrato se establece para la prestación de servicios que no requieren la presencia física del trabajador en el lugar de trabajo. El teletrabajo y otros trabajos realizados de manera remota se engloban en este tipo de contrato.",
+            "reglas": [
+              "Debe regularse la organización del tiempo de trabajo y los medios de trabajo utilizados.",
+              "El trabajador tiene derecho a la desconexión digital fuera de su jornada laboral."
+            ]
+            
+          },
+
+          {
+            "categoria": "Contratación y empleo",
+            "articulo": 24,
+            "titulo": "Contrato de prácticas",
+            "contenido": "El contrato de prácticas se establece con el fin de que los trabajadores adquieran experiencia profesional. Debe estar vinculado a los estudios cursados por el trabajador y la duración varía dependiendo del tipo de estudios realizados.",
+            "reglas": [
+              "El contrato debe tener una duración mínima de seis meses y máxima de dos años.",
+              "El trabajador debe ser remunerado con una cantidad no inferior al salario mínimo interprofesional."
+            ]
+            
+          },
+
+          
+            {
+              "categoria": "Jornada de trabajo y su distribución",
+              "articulo": "25",
+              "titulo": "Jornada de trabajo",
+              "contenido": [
+                "La jornada máxima anual es de 1.788 horas de trabajo efectivo, distribuidas en 224 días.",
+                "El tiempo de trabajo se computa para que la persona trabajadora esté en su puesto tanto al inicio como al final de su jornada.",
+                "La jornada diaria no puede superar las 9 horas de trabajo efectivo.",
+                "Se permite la distribución irregular de la jornada durante el año, respetando descansos semanales y anuales.",
+                "Derechos adicionales incluyen formación, permisos y la publicación anticipada del horario de equipos gerentes."
+              ]
+            },
+            {
+              "categoria": "Jornada de trabajo y su distribución",
+              "articulo": "26",
+              "titulo": "Descanso semanal y vacaciones",
+              "contenido": [
+                "El descanso semanal mínimo es de 1 día y medio consecutivo.",
+                "Se deben respetar las vacaciones anuales de 30 días naturales.",
+                "El período de vacaciones se debe fijar con un preaviso mínimo de 2 meses.",
+                "La empresa debe garantizar la desconexión digital durante el tiempo de descanso."
+              ]
+            },
+            {
+              "categoria": "Jornada de trabajo y su distribución",
+              "articulo": "27",
+              "titulo": "Jornada laboral nocturna",
+              "contenido": [
+                "La jornada laboral nocturna está comprendida entre las 10 p.m. y las 6 a.m.",
+                "Los trabajadores nocturnos tienen derecho a un incremento en su salario o tiempo libre compensatorio.",
+                "Los empleadores deben velar por la salud de los trabajadores nocturnos, realizando chequeos médicos periódicos."
+              ]
+            },
+            {
+              "categoria": "Jornada de trabajo y su distribución",
+              "articulo": "28",
+              "titulo": "Trabajo a tiempo parcial",
+              "contenido": [
+                "El trabajo a tiempo parcial implica una jornada inferior a la completa, y debe ser acordado entre ambas partes.",
+                "Los trabajadores a tiempo parcial tienen los mismos derechos que los de jornada completa, proporcionalmente.",
+                "El horario debe estar claramente especificado en el contrato de trabajo."
+              ]
+            },
+            {
+              "categoria": "Jornada de trabajo y su distribución",
+              "articulo": "29",
+              "titulo": "Trabajo por turnos",
+              "contenido": [
+                "El trabajo por turnos implica la rotación de horarios para garantizar la continuidad de la actividad laboral.",
+                "Los turnos deben ser equilibrados y no causar desajustes en la salud de los trabajadores.",
+                "Se debe respetar un período mínimo de descanso entre turnos."
+              ]
+            },
+            {
+              "categoria": "Jornada de trabajo y su distribución",
+              "articulo": "30",
+              "titulo": "Horas extraordinarias",
+              "contenido": [
+                "Las horas extraordinarias deben ser compensadas con tiempo libre o remuneración adicional.",
+                "La compensación económica no puede ser inferior a la tarifa horaria habitual.",
+                "Las horas extraordinarias no pueden superar el límite anual establecido por la ley."
+              ]
+            },
+
+            
+                {
+                  "categoria": "Jornada de trabajo",
+                  "articulo": "25",
+                  "titulo": "Jornada máxima anual y distribución irregular de la jornada",
+                  "contenido": [
+                    "La jornada máxima anual es de 1.788 horas y 224 días.",
+                    "El tiempo de trabajo se computará con la persona trabajadora en su puesto de trabajo al inicio y final del día.",
+                    "La jornada puede distribuirse irregularmente durante el año, respetando los descansos legales y la jornada máxima diaria.",
+                    "Cada empresa puede establecer la distribución de la jornada con acuerdo de los representantes de los trabajadores.",
+                    "Se respeta el derecho a formación y adaptación de la jornada según el artículo 23.1 del Estatuto de los Trabajadores.",
+                    "El horario de los gerentes se publicará con 2 semanas de antelación.",
+                    "El turno mínimo para las personas a tiempo parcial será de 2 horas.",
+                    "Los horarios y turnos deben estar disponibles para los representantes de los trabajadores."
+                  ]
+                },
+                {
+                  "categoria": "Jornada de trabajo parcial y flexibilidad de la misma",
+                  "articulo": "26",
+                  "titulo": "Distribución irregular de jornada para tiempo parcial",
+                  "contenido": [
+                    "La distribución irregular se calcula trimestralmente.",
+                    "El horario para personas a tiempo parcial debe publicarse con una semana de antelación."
+                  ]
+                },
+                {
+                  "categoria": "Registro de jornada",
+                  "articulo": "27",
+                  "titulo": "Sistema de registro de presencia",
+                  "contenido": [
+                    "Las empresas deben tener un sistema de registro de presencia del personal.",
+                    "El personal puede solicitar ver los registros de asistencia."
+                  ]
+                },
+                {
+                  "categoria": "Horas extraordinarias",
+                  "articulo": "28",
+                  "titulo": "Compensación de horas extraordinarias",
+                  "contenido": [
+                    "Las horas extraordinarias se compensan con tiempo de descanso equivalente.",
+                    "Las empresas pueden optar por retribuirlas según la normativa."
+                  ]
+                },
+                {
+                  "categoria": "Descanso semanal",
+                  "articulo": "29",
+                  "titulo": "Derecho al descanso semanal",
+                  "contenido": [
+                    "El descanso semanal es de 2 días continuos.",
+                    "Los días de descanso pueden ser acumulables hasta 14 días por decisión de la empresa."
+                  ]
+                },
+                {
+                  "categoria": "Vacaciones",
+                  "articulo": "30",
+                  "titulo": "Período de vacaciones anuales retribuidas",
+                  "contenido": [
+                    "El período de vacaciones anuales es de 31 días naturales.",
+                    "Las vacaciones se disfrutan proporcionalmente a los días trabajados en el año."
+                  ]
+                },
+                {
+                  "categoria": "Vacaciones y descansos",
+                  "articulo": "31",
+                  "titulo": "Días de descanso legalmente establecidos",
+                  "contenido": [
+                    "Si el día de descanso semanal coincide con un festivo, no se descuenta del total de descansos.",
+                    "Lo mismo aplica si un festivo cae durante las vacaciones.",
+                    "Los días de descanso o vacaciones no disfrutados por motivos organizativos deben disfrutarse en el primer trimestre del año siguiente.",
+                    "La fecha se acuerda entre la persona trabajadora y la dirección del centro."
+                  ]
+                },
+                {
+                  "articulo": 34,
+                  "titulo": "Movilidad Funcional",
+                  "contenido": {
+                    "definicion": "El concepto de movilidad funcional se refiere a la capacidad de un trabajador para desempeñar funciones que corresponden a un grupo profesional o nivel salarial distinto al que está asignado, por necesidades organizativas del centro de trabajo. Esto puede incluir tareas adicionales o diferentes a las originalmente designadas, que podrían implicar una mayor responsabilidad o un mayor nivel de complejidad.",
+                    "funciones_y_condiciones": {
+                      "grupo_profesional_asignado": {
+                        "descripcion": "El grupo profesional de un trabajador está determinado por las funciones que realiza habitualmente en su puesto de trabajo, así como el nivel salarial correspondiente a dichas funciones.",
+                        "funciones": [
+                          "Desempeñar las tareas propias de su grupo profesional o nivel, según lo asignado en su contrato de trabajo.",
+                          "Cumplir con las responsabilidades organizativas establecidas para el grupo asignado.",
+                          "Recibir la compensación económica correspondiente al grupo profesional de pertenencia, que incluye las funciones que su puesto original implica."
+                        ]
+                      },
+                      "movilidad_funcional_por_necesidades_organizativas": {
+                        "descripcion": "Cuando un trabajador es asignado a un puesto de trabajo con funciones superiores, debido a necesidades organizativas en el centro de trabajo, puede realizar tareas correspondientes a un grupo profesional superior.",
+                        "funciones": [
+                          "Desarrollar funciones propias de un grupo profesional o nivel distinto al que se encuentra asignado, por necesidades del centro de trabajo.",
+                          "Si el trabajo realizado corresponde a un grupo profesional superior, percibirá como compensación el salario correspondiente a ese grupo superior, durante el tiempo que desempeñe esas funciones.",
+                          "Las funciones realizadas deben estar en concordancia con las necesidades del centro de trabajo, como la cobertura de ausencias o la reducción de jornada de otro trabajador."
+                        ]
+                      },
+                      "ausencias_o_reduccion_de_jornada": {
+                        "descripcion": "Cuando un trabajador es asignado a funciones superiores como cobertura temporal de ausencia o reducción de jornada de otro trabajador, no se consolida el cambio de puesto, siempre que no se superen los plazos legales establecidos.",
+                        "funciones": [
+                          "El trabajador podrá cubrir funciones de un grupo profesional superior si se requiere por ausencias o reducciones de jornada de otros trabajadores, como establecido en el artículo 45.1 del Estatuto de los Trabajadores.",
+                          "El desempeño de funciones superiores durante un tiempo determinado no generará el derecho a la consolidación del puesto en el grupo superior, siempre que no se excedan los plazos legales para este tipo de movilidad.",
+                          "La compensación económica será la del grupo superior correspondiente a las funciones desempeñadas, pero esta asignación será temporal y no implicará un cambio permanente de grupo profesional."
+                        ]
+                      },
+                      "condiciones_legales": {
+                        "descripcion": "El artículo 34 establece que cualquier movilidad funcional debe realizarse bajo los parámetros establecidos en el Estatuto de los Trabajadores, sin que exista un cambio permanente en el grupo profesional del trabajador.",
+                        "funciones": [
+                          "Las tareas asignadas deben ajustarse a las condiciones y plazos legales previstos en el Estatuto de los Trabajadores, específicamente en lo que respecta a las ausencias o reducciones de jornada.",
+                          "La movilidad funcional no implica un cambio de categoría profesional permanente, sino que se ajusta a las necesidades operativas temporales de la empresa.",
+                          "El trabajador no tiene derecho a que se consolide su puesto en el grupo profesional superior si se supera el tiempo establecido para la cobertura temporal."
+                        ]
+                      }
+                    }
+                  }
+                },
+                {
+                  "articulo": 35,
+                  "titulo": "Estructura Salarial",
+                  "contenido": {
+                    "definicion": "La estructura salarial en el ámbito de este Convenio colectivo se compone de varias partes que incluyen el salario base y diversos complementos salariales que responden a diferentes circunstancias laborales, personales o del puesto de trabajo.",
+                    "componentes_salariales": {
+                      "salario_base": {
+                        "descripcion": "El salario base es la parte de la retribución que se establece por unidad de tiempo, sin tener en cuenta los complementos adicionales como los personales, de puesto de trabajo, de calidad o cantidad, de vencimiento superior al mes, en especie o de residencia.",
+                        "funciones": [
+                          "Remunerar la jornada anual efectiva de trabajo.",
+                          "Incluir los descansos legales y convencionales establecidos.",
+                          "No considerar otros factores como el desempeño, el puesto o los beneficios adicionales."
+                        ]
+                      },
+                      "complementos_salariales": {
+                        "descripcion": "Los complementos salariales son pagos adicionales al salario base que están relacionados con diferentes circunstancias de la persona trabajadora, su puesto de trabajo, la calidad o cantidad de trabajo, y otros factores específicos.",
+                        "subcomponentes": {
+                          "complementos_personales": {
+                            "descripcion": "Son aquellos complementos que derivan de las condiciones personales del trabajador y que no han sido incluidos en la fijación del salario base. Se refieren a cualificaciones, conocimientos o habilidades especiales que la persona pueda poseer.",
+                            "funciones": [
+                              "Compensar al trabajador por sus títulos, idiomas, conocimientos o habilidades especiales.",
+                              "No se consideran al calcular el salario base, pero son añadidos como parte de la retribución."
+                            ]
+                          },
+                          "complementos_puesto_trabajo": {
+                            "descripcion": "Estos complementos corresponden a las características específicas del puesto de trabajo en el que la persona trabaja. Dependen exclusivamente de la prestación efectiva del trabajo en dicho puesto.",
+                            "funciones": [
+                              "Compensar al trabajador por las características del puesto asignado.",
+                              "No son consolidables, ya que dependen de la ejecución efectiva del trabajo en el puesto de trabajo."
+                            ]
+                          },
+                          "complementos_calidad_cantidad_trabajo": {
+                            "descripcion": "Se refiere a los complementos que se perciben por razón de una mayor calidad en el trabajo o una mayor cantidad de trabajo realizado, tales como premios, incentivos, pluses de actividad, horas extraordinarias u otros.",
+                            "funciones": [
+                              "Premiar o incentivar a los trabajadores por mejorar la calidad o cantidad del trabajo.",
+                              "Pueden ser parte de un sistema de retribución basado en el rendimiento.",
+                              "No son consolidables, ya que están vinculados a tareas puntuales o de rendimiento."
+                            ]
+                          },
+                          "complementos_vencimiento_superior_mes": {
+                            "descripcion": "Este apartado incluye las gratificaciones extraordinarias, de permanencia y otros pagos similares que se perciben de manera periódica y superior al mes.",
+                            "funciones": [
+                              "Incluir gratificaciones extraordinarias como las de Navidad, vacaciones u otras análogas.",
+                              "Pueden ser adicionales al salario base y distribuidas de manera periódica."
+                            ]
+                          }
+                        }
+                      },
+                      "retribuciones_especie": {
+                        "descripcion": "Son aquellas remuneraciones que no se entregan en forma de dinero, sino como servicios o beneficios materiales proporcionados al trabajador, tales como manutención, alojamiento, vivienda u otros suministros.",
+                        "funciones": [
+                          "Proporcionar beneficios en especie que no forman parte del salario base.",
+                          "Pueden incluir servicios como alojamiento, comida o transporte, entre otros.",
+                          "Se consideran una forma de compensación adicional que no es parte del salario directo en efectivo."
+                        ]
+                      },
+                      "complementos_extrasalariales": {
+                        "descripcion": "Son retribuciones que no están directamente relacionadas con el desempeño de la actividad laboral, sino que están destinadas a compensar gastos derivados del trabajo o cubrir necesidades que no son atribuibles al trabajador.",
+                        "funciones": [
+                          "Compensar al trabajador por gastos derivados de la ejecución de su trabajo, como desplazamientos, material, etc.",
+                          "Cubrir situaciones de inactividad no imputables al trabajador, como en el caso de situaciones excepcionales de ausencia."
+                        ]
+                      }
+                    }
+                  }
+                },
+                {
+                  "articulo": 36,
+                  "titulo": "Gratificaciones Extraordinarias",
+                  "contenido": {
+                    "definicion": "Las gratificaciones extraordinarias son pagos adicionales que se realizan en dos momentos específicos del año, con un importe equivalente al salario base mensual de la persona trabajadora.",
+                    "fechas_pago": [
+                      {
+                        "fecha": "30 de junio",
+                        "descripcion": "Primera gratificación extraordinaria del año."
+                      },
+                      {
+                        "fecha": "20 de diciembre",
+                        "descripcion": "Segunda gratificación extraordinaria del año."
+                      }
+                    ],
+                    "importe": {
+                      "descripcion": "El importe de las gratificaciones extraordinarias será equivalente al salario base mensual de la persona trabajadora.",
+                      "prorrateo": "Este importe será prorrateado a lo largo de las doce mensualidades ordinarias, salvo acuerdo en contrario entre las partes."
+                    },
+                    "proporcionalidad": {
+                      "descripcion": "Las personas trabajadoras que ingresen o cesen en el transcurso del año tendrán derecho a recibir una parte proporcional de las gratificaciones extraordinarias.",
+                      "funciones": [
+                        "Si una persona trabajadora ingresa o cesa en la empresa durante el año, recibirá la parte proporcional correspondiente de las gratificaciones extraordinarias.",
+                        "El cálculo de la parte proporcional dependerá de la fecha de ingreso o cese de la persona trabajadora."
+                      ]
+                    }
+                  }
+                },
+                {
+                  "articulo": 37,
+                  "titulo": "Plus de nocturnidad",
+                  "contenido": {
+                    "definicion": "El 'Plus de nocturnidad' es una retribución adicional para las horas trabajadas durante el período nocturno, de 22:00 a 6:00 horas.",
+                    "horas_nocturnas": {
+                      "descripcion": "Las horas trabajadas durante el período nocturno, entre las 22:00 y las 6:00 horas, se retribuirán según las cuantías que se establecen para cada nivel salarial en las tablas salariales del Anexo de Condiciones Económicas del Convenio colectivo.",
+                      "horas_especificas": {
+                        "horas_22_24": {
+                          "descripcion": "Las horas trabajadas entre las 22:00 y las 24:00 horas serán retribuidas con un 25 % adicional sobre el importe correspondiente a cada nivel salarial."
+                        }
+                      }
+                    },
+                    "referencia": "Las cuantías específicas de la retribución por nocturnidad se encuentran detalladas en las tablas salariales del Anexo de Condiciones Económicas del Convenio colectivo."
+                  }
+                },
+                {
+                  "articulo": 38,
+                  "titulo": "Pluses grupo profesional I Área de Tiendas: Plus Puesto",
+                  "contenido": {
+                    "definicion": "El personal adscrito al grupo I del Área de Tiendas percibirá un complemento salarial denominado 'Plus Puesto' debido a las especiales funciones de responsabilidad que desarrollan en las tiendas.",
+                    "descripcion": "Este complemento tiene como finalidad reconocer las responsabilidades adicionales que asume el personal del grupo I en el Área de Tiendas.",
+                    "cuantia": {
+                      "descripcion": "La cuantía del 'Plus Puesto' dependerá del nivel dentro del grupo profesional I al cual se encuentre adscrito cada persona trabajadora.",
+                      "referencia": "Las cuantías específicas se fijan en el anexo de condiciones económicas del convenio colectivo."
+                    },
+                    "funciones": [
+                      "El 'Plus Puesto' es un complemento salarial otorgado por las funciones de responsabilidad que el personal desempeña dentro del grupo profesional I en el Área de Tiendas.",
+                      "El importe de este plus varía según el nivel del grupo profesional de cada persona trabajadora."
+                    ]
+                  }
+                },
+
+                {
+  "articulo": 39,
+  "titulo": "Plus jefe de equipo Área de Fábrica",
+  "contenido": {
+    "definicion": "El 'Plus jefe de equipo' es una retribución adicional destinada a los jefes de equipo responsables de la gestión completa de un área de trabajo dentro de los obradores y almacenes de los centros de producción.",
+    "requisitos": {
+      "descripcion": "Este plus es percibido por aquellos jefes de equipo que, según las previsiones contenidas en el presente convenio colectivo, tengan bajo su exclusiva y máxima responsabilidad la gestión total de un área de trabajo.",
+      "responsabilidades": [
+        "Control de presupuestos",
+        "Dirección de equipos",
+        "Control de producción",
+        "Control de mercancías y abastecimiento",
+        "Labores análogas"
+      ]
+    },
+    "importe": {
+      "descripcion": "El importe del plus se establece y recoge en el anexo de condiciones económicas del convenio colectivo.",
+      "referencia": "El importe exacto del plus se detalla en el anexo de condiciones económicas."
+    }
+  }
+},
+{
+  "articulo": 40,
+  "titulo": "Uniformidad",
+  "contenido": {
+    "definicion": "Las empresas deben proporcionar a sus empleados la uniformidad adecuada para realizar sus funciones, con un mínimo de dos entregas anuales.",
+    "requisitos": {
+      "descripcion": "Las empresas que exijan uniformidad deben facilitarla a sus empleados, adaptándola a las actividades específicas y las peculiaridades de cada puesto.",
+      "reposicion": {
+        "descripcion": "En caso de deterioro anticipado del uniforme, las empresas deberán reponer los mismos antes de los períodos habituales de reposición, garantizando que los empleados puedan seguir realizando sus funciones adecuadamente."
+      },
+      "bermuda": {
+        "descripcion": "Las empresas permitirán el uso de pantalón corto (tipo bermuda) para labores de cuponeo, siempre que lo soliciten los empleados. La prenda será aportada por el trabajador y deberá cumplir con los requisitos establecidos por la empresa."
+      },
+      "casco": {
+        "descripcion": "Las empresas proporcionarán un casco a cada trabajador adscrito al reparto en motocicleta. Este casco debe ser devuelto al finalizar la relación laboral, en buen estado de conservación, y podrá ser reutilizado por otro empleado. El casco no podrá ser utilizado para fines personales y deberá permanecer en el centro de trabajo cuando no se presten servicios.",
+        "responsabilidad": "Cada trabajador es responsable del buen mantenimiento y uso del casco proporcionado por la empresa. En el caso de que un repartidor use su propia motocicleta, deberá aportar su propio casco homologado para realizar el trabajo."
+      }
+    }
+  }
+},
+{
+  "articulo": 41,
+  "titulo": "Seguro de accidentes",
+  "contenido": {
+    "descripcion": "Las empresas deberán concertar una póliza de seguro, individual o colectiva, que cubra a favor de las personas trabajadoras un seguro de 25.000 euros (veinticinco mil euros), para sí mismas o sus beneficiarios.",
+    "cobertura": {
+      "riesgos": [
+        "Fallecimiento por accidente",
+        "Incapacidad permanente absoluta"
+      ],
+      "condiciones": "Estos riesgos deben ser producidos exclusivamente durante la prestación de trabajo o en accidentes laborales ocurridos in itinere."
+    },
+    "obligaciones": {
+      "copia": "Anualmente, las empresas deberán facilitar una copia de la póliza de seguro al Comité Intercentros, si está constituido, o en su defecto, a la representación legal de los trabajadores del centro."
+    }
+  }
+},
+{
+  "articulo": 42,
+  "titulo": "Gastos vehículo propio",
+  "contenido": {
+    "descripcion": "Regulación de los gastos derivados del uso de un vehículo propio para las personas repartidoras en los casos en que se indique en la política comercial de la empresa.",
+    "secciones": [
+      {
+        "titulo": "Condiciones para el uso del vehículo",
+        "detalle": "El repartidor debe mantener su vehículo en buenas condiciones de uso y estar habilitado legalmente para su conducción. El incumplimiento de estas condiciones afecta la relación laboral, ya que la empresa depende del vehículo para realizar el trabajo."
+      },
+      {
+        "titulo": "Responsabilidad de los gastos",
+        "detalle": "Los gastos relacionados con el vehículo, como compra, amortización, mantenimiento, seguro, combustible, reparaciones, casco, entre otros, serán cubiertos por el repartidor, quien recibirá una compensación por parte de la empresa."
+      },
+      {
+        "titulo": "Compromisos del repartidor",
+        "detalle": [
+          "Sustituir o reparar el vehículo en caso de avería si es de su propiedad, conforme a las estipulaciones del convenio colectivo.",
+          "Comunicar por escrito a la empresa cualquier cambio en el vehículo utilizado, debiendo ser de características similares al original."
+        ]
+      },
+      {
+        "titulo": "Compensación económica",
+        "detalle": "El repartidor recibirá una compensación económica por el uso de su vehículo, conforme a lo estipulado en el Anexo de Condiciones Económicas. Las cantidades mínimas se indican en dicho anexo, sin perjuicio de los acuerdos colectivos a nivel de empresa."
+      },
+      {
+        "titulo": "Exención de cotización a la Seguridad Social",
+        "detalle": "Los gastos relacionados con el vehículo no serán considerados como salario, ya que se tratan de una compensación por los gastos necesarios para realizar el trabajo, y no cotizarán a la Seguridad Social."
+      }
+    ]
+  }
+},
+{
+  "articulo": 43,
+  "titulo": "Permisos retribuidos",
+  "contenido": {
+    "descripcion": "Regulación de los permisos retribuidos para las personas trabajadoras, que incluyen situaciones como matrimonio, fallecimiento de familiares, atención médica, mudanzas, entre otros.",
+    "secciones": [
+      {
+        "titulo": "Permisos por causas familiares",
+        "detalle": [
+          "15 días naturales por matrimonio o unión de hecho (certificado de convivencia requerido).",
+          "Permiso por fallecimiento, accidente, enfermedad grave, hospitalización o intervención quirúrgica sin hospitalización de familiares hasta segundo grado de consanguinidad o afinidad. Duración varía según la distancia: 3 días en la misma provincia, 4 días en provincias limítrofes, 5 días en el resto de España o el extranjero.",
+          "Permiso por boda de parientes hasta segundo grado de consanguinidad o afinidad: 1 día natural."
+        ]
+      },
+      {
+        "titulo": "Permisos por otras circunstancias personales",
+        "detalle": [
+          "1 día al año por traslado de domicilio habitual, con preaviso de al menos una semana y justificación posterior.",
+          "Tiempo necesario para acudir a médicos especialistas.",
+          "Tiempo para la realización de exámenes prenatales, técnicas de preparación al parto y otros trámites relacionados con la adopción o acogimiento."
+        ]
+      },
+      {
+        "titulo": "Permisos por deberes y estudios",
+        "detalle": [
+          "Horas necesarias para asistir a exámenes finales cuando se cursen estudios de carácter oficial o académico, con justificación administrativa.",
+          "Tiempo indispensable para el cumplimiento de un deber inexcusable de carácter público y personal. En caso de que el cumplimiento impida el trabajo en más del 20% de las horas de un período de tres meses, se podrá pasar a la situación de excedencia."
+        ]
+      },
+      {
+        "titulo": "Permisos para adopción y pareja de hecho",
+        "detalle": [
+          "Permiso para la tramitación de permisos de adopción o acogimiento con un límite de 1 día.",
+          "Aplicación de los permisos para parejas de hecho debidamente registradas, con particularidades según el tipo de permiso (por ejemplo, en caso de matrimonio)."
+        ]
+      },
+      {
+        "titulo": "Procedimiento y duración de los permisos",
+        "detalle": [
+          "La persona trabajadora deberá acreditar el hecho que da lugar al disfrute del permiso.",
+          "La comunicación de la solicitud de permiso debe hacerse por escrito con la mayor antelación posible, excepto en casos de urgencia.",
+          "Los permisos se concederán en las fechas en que ocurran los hechos causantes, aunque en algunos casos, como hospitalización, se puede disfrutar de la licencia en días sucesivos.",
+          "En caso de superposición de distintas causas de licencia, se concederán solo los permisos con mayor duración.",
+          "Los permisos serán abonados con el salario real, excluyendo gastos de locomoción u otros suplidos."
+        ]
+      },
+      {
+        "titulo": "Formación para empleados de ciertos grupos profesionales",
+        "detalle": "Las empresas dedicarán 5 horas mensuales retribuidas dentro de la jornada laboral para la formación de empleados adscritos al grupo profesional I, niveles salariales I y II del Área de Tienda durante los primeros 10 meses de su contrato o ascenso. Igualmente, se aplicará a empleados del grupo profesional II, nivel salarial II durante los primeros 2 meses de su contrato."
+      }
+    ]
+  }
+},
+{
+  "articulo": 44,
+  "titulo": "Permiso no retribuido y recuperable",
+  "contenido": [
+    {
+      "descripcion": "Todas las personas trabajadoras podrán disponer de un permiso no retribuido y recuperable de un día al año por asuntos propios.",
+      "condiciones": [
+        "Este permiso no se podrá utilizar ni será acumulable a períodos vacacionales preestablecidos.",
+        "La persona trabajadora deberá preavisar con al menos 30 días naturales de antelación.",
+        "Si el día solicitado no es viable por razones organizativas o productivas, se acordará con la persona trabajadora la fecha más cercana posible para disfrutar del permiso.",
+        "Este día de permiso debe recuperarse posteriormente mediante acuerdo con la empresa."
+      ]
+    }
+  ]
+},
+
+{
+  "articulo": 45,
+  "titulo": "Suspensión del contrato por nacimiento o permiso de nacimiento y cuidado del menor, riesgo durante el embarazo o cuidado del lactante, adopción y acogimiento",
+  "contenido": [
+    {
+      "apartado": 1,
+      "descripcion": "Suspensión del contrato por nacimiento y cuidado del menor",
+      "detalles": [
+        "La madre biológica y el otro progenitor tendrán derecho a 16 semanas de suspensión del contrato por nacimiento, con 6 semanas obligatorias e ininterrumpidas a jornada completa tras el parto.",
+        "En caso de nacimiento múltiple, se añaden 2 semanas más (una por progenitor) por cada hijo/a adicional.",
+        "El fallecimiento del hijo/a no reducirá el periodo de suspensión salvo reincorporación voluntaria tras las 6 semanas obligatorias.",
+        "Las 10 semanas restantes pueden disfrutarse de forma acumulada o interrumpida hasta que el hijo/a cumpla 12 meses. La madre biológica puede anticipar hasta 4 semanas antes del parto.",
+        "Debe comunicarse a la empresa con 15 días de antelación.",
+        "Este derecho es individual e intransferible.",
+        "Puede disfrutarse a jornada completa o parcial previo acuerdo con la empresa.",
+        "En caso de parto prematuro u hospitalización del neonato, se puede computar desde el alta hospitalaria, excluyendo las 6 semanas obligatorias.",
+        "La hospitalización superior a 7 días puede ampliar el permiso hasta 13 semanas adicionales."
+      ]
+    },
+    {
+      "apartado": 2,
+      "descripcion": "Suspensión del contrato por adopción, guarda con fines de adopción y acogimiento",
+      "detalles": [
+        "Cada adoptante/guardador/acogedor tendrá derecho a 16 semanas de suspensión, ampliables en 2 semanas (una por progenitor) en casos múltiples a partir del segundo menor.",
+        "6 semanas obligatorias e ininterrumpidas tras resolución judicial o decisión administrativa.",
+        "Solo puede disfrutarse una vez por menor adoptado/acogido.",
+        "En adopción internacional, puede iniciarse hasta 4 semanas antes de la resolución.",
+        "Este derecho es individual e intransferible.",
+        "Debe comunicarse con al menos 15 días de antelación.",
+        "Si ambos progenitores trabajan en la misma empresa, esta puede limitar el disfrute simultáneo de las semanas voluntarias.",
+        "Se amplía en 2 semanas (una por progenitor) en caso de discapacidad del menor.",
+        "Puede disfrutarse a jornada completa o parcial, previo acuerdo con la empresa.",
+        "Durante la suspensión se conservan derechos laborales y mejoras aplicables."
+      ]
+    },
+    {
+      "apartado": 3,
+      "descripcion": "Suspensión del contrato por riesgo durante el embarazo o lactancia natural",
+      "detalles": [
+        "Finaliza al iniciarse el permiso por maternidad o cuando el lactante cumpla nueve meses.",
+        "También puede finalizar si desaparece el motivo que impide reincorporarse al puesto."
+      ]
+    },
+    {
+      "apartado": 4,
+      "descripcion": "Adaptación del puesto por estado de gestación",
+      "detalles": [
+        "Si la trabajadora no puede desempeñar su función por embarazo, puede solicitar el cambio de tareas.",
+        "La empresa debe adaptarlo respetando las condiciones económicas.",
+        "La reincorporación se realizará en las mismas condiciones una vez termine la causa.",
+        "Debe justificarse con informes médicos de la Seguridad Social."
+      ]
+    },
+    {
+      "notas_finales": [
+        "En lo no previsto en este artículo se aplicará el Estatuto de los Trabajadores y su normativa de desarrollo."
+      ]
+    }
+  ]
+},
+{
+  "articulo": 47,
+  "titulo": "Reducción de la jornada por cuidado del lactante",
+  "contenido": {
+    "derecho_a_pausa": {
+      "descripcion": "Las personas trabajadoras tendrán derecho a una pausa de una hora de ausencia del trabajo, divisible en dos fracciones de media hora, para el cuidado del lactante hasta que este cumpla nueve meses.",
+      "opcion_sustitucion": "La persona trabajadora podrá sustituir este derecho por una reducción de la jornada ordinaria en una hora al inicio o al final de la misma."
+    },
+    "caracter_personal": {
+      "descripcion": "El derecho es individual y no transferible al otro progenitor, adoptante, guardador o acogedor.",
+      "limitacion_simultanea": "Si dos personas trabajadoras de la misma empresa ejercen este derecho respecto al mismo menor, la empresa podrá limitar su ejercicio simultáneo por razones justificadas de funcionamiento, con comunicación escrita."
+    },
+    "extension_hasta_12_meses": {
+      "descripcion": "Si ambos progenitores ejercen este derecho con la misma duración y régimen, podrá extenderse hasta que el lactante cumpla doce meses.",
+      "condicion": "A partir de los nueve meses, la extensión conllevará una reducción proporcional del salario."
+    },
+    "traslado_de_centro": {
+      "descripcion": "Durante los seis meses posteriores a la reincorporación tras la baja por nacimiento, la persona trabajadora podrá solicitar traslado a otro centro de trabajo dentro de la misma provincia mientras ejerza este derecho."
+    },
+    "remuneracion": {
+      "descripcion": "La pausa o reducción será retribuida.",
+      "observacion": "Puede ser solicitada por ambos progenitores incluso en caso de lactancia artificial."
+    },
+    "nacimiento_multiple": {
+      "descripcion": "El permiso por cuidado del lactante aumentará proporcionalmente en caso de nacimiento, adopción, guarda o acogimiento múltiples."
+    },
+    "acumulacion_a_baja_nacimiento": {
+      "descripcion": "Se puede acumular hasta un máximo de 16 días naturales al periodo de baja por nacimiento como compensación por no haber disfrutado la reducción diaria.",
+      "condicion": "Debe solicitarse al menos cuatro semanas antes de la finalización de la suspensión por nacimiento.",
+      "limite_tiempo": "Esta acumulación debe realizarse durante los primeros nueve meses de vida del hijo o hija."
+    },
+    "normativa_aplicable": {
+      "descripcion": "Para aspectos no regulados en este artículo, se aplicarán las disposiciones del Estatuto de los Trabajadores y normativa de desarrollo."
+    }
+  }
+},
+{
+  "articulo": 48,
+  "titulo": "Elección preferente de turno de trabajo",
+  "contenido": {
+    "derecho_a_eleccion": {
+      "descripcion": "Las personas trabajadoras con hijos e hijas menores de tres años tendrán derecho preferente a elegir turno horario de trabajo frente a nuevas contrataciones."
+    },
+    "solicitud": {
+      "requisito": "La solicitud debe realizarse por escrito.",
+      "plazo": "Debe presentarse antes del segundo mes siguiente a la reincorporación tras la baja maternal."
+    },
+    "acuerdo_con_empresa": {
+      "descripcion": "El turno podrá cubrirse, mediante acuerdo con la dirección de la empresa, en cualquier centro de trabajo dentro de la misma provincia.",
+      "permuta": "Se podrán realizar permutas con personas trabajadoras de otros centros."
+    }
+  }
+},
+{
+  "articulo": 49,
+  "titulo": "Excedencias",
+  "contenido": {
+    "solicitud_general": {
+      "descripcion": "Todas las excedencias deben solicitarse por escrito con una antelación mínima de quince días naturales antes del inicio.",
+      "respuesta_empresa": "La empresa debe responder dentro del mismo plazo. Si no responde, se entenderá concedida la excedencia."
+    },
+    "tipos_excedencia": {
+      "A": {
+        "nombre": "Excedencia voluntaria",
+        "requisitos": {
+          "antiguedad_minima": "1 año en la empresa",
+          "duracion": {
+            "minima": "4 meses",
+            "maxima": "5 años"
+          }
+        },
+        "reingreso": {
+          "solicitud_reingreso": "Mínimo 15 días laborables antes de la finalización.",
+          "no_solicitud": "Extinción de la relación laboral si no se solicita reingreso."
+        },
+        "prorrogas": {
+          "maximas": 2,
+          "condiciones": "El total (inicial + prórrogas) no puede superar los 5 años.",
+          "aviso": "Solicitar por escrito con 15 días de antelación indicando periodo y duración."
+        }
+      },
+      "B": {
+        "nombre": "Excedencias especiales",
+        "duracion_maxima": "4 años",
+        "causas": {
+          "a": "Cuidado de hijo/a por nacimiento, adopción o acogida. Si varias personas generan el derecho por el mismo sujeto, la empresa puede limitar su ejercicio por razones justificadas.",
+          "b": "Cuidado de familiar hasta segundo grado por edad, accidente o enfermedad, sin actividad retribuida.",
+          "c": "Tratamiento de toxicomanía o alcoholismo bajo vigilancia médica. Duración mínima: 1 año.",
+          "d": "Cargos sindicales de ámbito comarcal o superior de sindicatos representativos. Duración: duración del mandato."
+        },
+        "condiciones": {
+          "incompatibilidad": "Incompatible con otras actividades laborales o profesionales.",
+          "comunicacion_reincorporacion": "Con 15 días de antelación al cese de la causa.",
+          "computo_antiguedad": "Solo cuando lo establezca la ley.",
+          "reserva_puesto": {
+            "primeros_dos_anos": "Reserva del mismo puesto de trabajo.",
+            "resto_duracion": "Reserva de puesto del mismo grupo profesional."
+          },
+          "sustitucion": "En excedencia forzosa, la sustitución debe hacerse mediante contrato de sustitución."
+        }
+      },
+      "C": {
+        "nombre": "Excedencia especial por estudios",
+        "beneficiarios": "Trabajadores/as que cursen estudios oficiales para título académico o profesional.",
+        "duracion": {
+          "inicial": "1 mes",
+          "prorroga": "1 mes adicional",
+          "limitacion": "Una solicitud por centro de trabajo y año escolar"
+        },
+        "condiciones": {
+          "solicitud": "Solicitar con 2 meses de antelación.",
+          "reserva_puesto": "Sí, con mantenimiento de condiciones laborales anteriores a su disfrute."
+        }
+      }
+    }
+  }
+},
+{
+  "articulo": 50,
+  "titulo": "Suspensión y extinción del contrato",
+  "contenido": {
+    "punto_1": {
+      "descripcion": "Serán causas de suspensión y extinción del contrato las recogidas en los artículos 45 y 49 del Estatuto de los Trabajadores."
+    },
+    "punto_2": {
+      "descripcion": "Condiciones especiales para el personal en contacto con alimentos.",
+      "condiciones": {
+        "enfermedades_transmisibles": "El personal no podrá ser portador de enfermedades transmisibles a través de alimentos.",
+        "revision_medica": "Obligatoria para determinar el estado de salud.",
+        "reubicacion_provisional": {
+          "descripcion": "La empresa podrá reubicar provisionalmente al trabajador en un puesto compatible con su estado de salud.",
+          "obligatoriedad": "El trabajador deberá aceptar el nuevo puesto.",
+          "retribucion": "Se mantendrá la retribución."
+        },
+        "ausencia_puesto_compatible": {
+          "descripcion": "Si no existe un puesto adecuado, la empresa podrá suspender el contrato mientras dure la contingencia."
+        },
+        "enfermedad_irreversible": {
+          "descripcion": "Si se determina que la enfermedad es irreversible, se aplicará lo dispuesto en el artículo 52.a) del Estatuto de los Trabajadores."
+        }
+      }
+    }
+  }
+},
+{
+  "articulo": 51,
+  "titulo": "Suspensión del permiso de conducción",
+  "contenido": [
+    {
+      "punto": 1,
+      "descripcion": "Si existiera un puesto de trabajo al que pudiera destinarse provisionalmente con la misma jornada y grupo profesional, la empresa se lo ofrecerá, pudiendo éste aceptarlo o rechazarlo."
+    },
+    {
+      "punto": 2,
+      "descripcion": "Si lo aceptare realizará el trabajo y percibirá la remuneración correspondiente a su nuevo puesto."
+    },
+    {
+      "punto": 3,
+      "descripcion": "Si no existe una vacante al que destinarle, o habiéndola no lo acepta, el contrato podrá extinguirse al amparo de las previsiones contenidas en el artículo 52.a) del Estatuto de los Trabajadores, cumplimentando, a tal efecto, las formalidades previstas al efecto para este tipo de extinciones objetivas."
+    }
+  ]
+},
+{
+  "articulo": 52,
+  "titulo": "Otros supuestos de suspensión y extinción del contrato de trabajo",
+  "contenido": [
+    {
+      "descripcion": "En el supuesto de que la persona trabajadora que realice tareas de reparto aportara su propio vehículo, en caso de carencia del mismo por cualquier causa (excepto robo o sustracción), tendrá un plazo de diez días para repararlo y ponerlo nuevamente en funcionamiento al undécimo día."
+    },
+    {
+      "descripcion": "El robo o sustracción deberá acreditarse mediante la aportación del original de la denuncia efectuada en la correspondiente comisaría de policía."
+    },
+    {
+      "descripcion": "Desde el momento de la carencia del vehículo y hasta su nueva aportación, o hasta un plazo máximo de dos meses, la empresa deberá facilitar a la persona trabajadora un vehículo de empresa si existe disponibilidad en la misma ciudad o área metropolitana, o bien ofrecerle otro puesto de trabajo dentro de su grupo profesional y con la misma jornada."
+    },
+    {
+      "descripcion": "Si transcurrido el período de dos meses la persona trabajadora no ha aportado nuevamente su propio vehículo, el contrato podrá extinguirse conforme al artículo 52.a) del Estatuto de los Trabajadores, siguiendo las formalidades previstas para las extinciones objetivas."
+    },
+    {
+      "descripcion": "Todos los plazos establecidos son máximos, debiendo la persona trabajadora reintegrarse al trabajo tan pronto como el vehículo esté disponible para su utilización."
+    }
+  ]
+}
+        ]
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+                
+                
+                
+                
+              
+              
+          
+          
+          
+          
+          
+
+
+          
+
+          
+
+
+          
+          
+
+          
+          
+      
+      
+
+
+      
+ 
