@@ -1,37 +1,8 @@
 {
   "Prodelivery": [
+
     {
-      {
-            "artículo": "Artículo 11",
-            "titulo": "Movilidad geográfica: Traslados y desplazamientos",
-            "contenido": ["Se aplica lo estipulado en el artículo 40 del Estatuto de los Trabajadores, excepto en la indemnización, que en caso de que el empleado opte por rescindir su contrato dentro del plazo legal, será de treinta días por año de servicio, con un máximo de doce mensualidades.",
-            "La empresa debe notificar el traslado por escrito al trabajador y a sus representantes legales con una antelación mínima de treinta días.",
-            "El trabajador trasladado tiene derecho a una compensación económica por los gastos del traslado y los de su familia.",
-            "El trabajador también tendrá derecho a un permiso retribuido de cuatro días laborables continuados para gestionar su búsqueda de residencia en la nueva localidad."
-          ]
-            
-          },
-    {
-       "artículo": "Artículo 12",
-      "titulo": "Variabilidad en el lugar de prestación de servicios",
-      "contenido": ["La empresa puede trasladar a los trabajadores por cuestiones organizativas, técnicas o productivas.",
-    "Los trabajadores trasladados mantendrán las vacaciones previas establecidas en su centro de origen, excepto si han solicitado voluntariamente el cambio de lugar.",
-    "En áreas metropolitanas, el cambio de centro de trabajo dentro de la misma área no se considera como movilidad geográfica.",
-    "Notificación y preaviso: ",
-    "Traslado por necesidades coyunturales: No requiere preaviso y es por tiempo limitado.",
-    "Traslado definitivo: Requiere un preaviso mínimo de 4 días.",
-    "Traslado de más de 2 semanas: Debe ser notificado por escrito.",
-    "Restricciones para nuevos traslados:",
-    "Un trabajador no podrá ser trasladado nuevamente en un período de 4 meses, a menos que regrese a su centro de origen o lo haga voluntariamente.",
-    "Prioridad de retorno:",
-    "Los representantes de los trabajadores tienen prioridad para regresar a su centro de origen si hay vacantes.",
-    "Los trabajadores con cuidado directo de familiares con enfermedades graves o discapacidad también tendrán prioridad para retornar a sus centros de origen.",
-    "Representantes de los trabajadores:",
-    "En caso de que la circunscripción electoral esté limitada al centro de trabajo, los representantes de los trabajadores no pueden ser trasladados a otro centro sin su consentimiento expreso."
-    ]
-    },
-    {
-      "articulo": "Artículo 13",
+      "articulo": "movilidad",
       "titulo": "acoso",
       "contenido": "Explicación sobre otro tema relacionado con el trabajo y movilidad."
     }
