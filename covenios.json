@@ -1,69 +1,67 @@
 {
   "Prodelivery": [
 
-  {
-      "artículo": "Artículo 1",
+    "articulo": 1,
       "titulo": "Ámbito funcional",
       "contenido": [
-        "Regula relaciones laborales en empresas cuya actividad principal es la preparación y entrega de comida a domicilio.",
-        "Incluye también artículos de apoyo como libros o vídeos, y ventas 'para llevar'.",
-        "Afecta a franquicias que desarrollen esa actividad.",
-        "Se aplica a empresas afiliadas a PRODELIVERY sin otro convenio aplicable.",
-        "Excluye empresas de catering, restauración tradicional, bufés y colectividades, así como centros que ya apliquen un convenio de hostelería (salvo cambio de actividad o acuerdo).",
-        "Empresas nuevas deben acreditar su actividad ante la Comisión Paritaria."
+        "**El presente Convenio regula las relaciones laborales** en empresas dedicadas a la preparación y elaboración de productos cocinados para su reparto a domicilio, e incluye otros productos como vídeos, libros, etc.\n\n",
+        "**También afecta a las empresas franquiciadas** que desarrollen esta actividad.\n\n",
+        "**Abarca a las empresas afiliadas a PRODELIVERY.**\n\n",
+        "Se excluyen las empresas dedicadas a catering, restauración rápida, restauración colectiva, bufés o autoservicios.\n\n",
+        "Las empresas que deseen aplicar este Convenio deben acreditar su actividad ante la Comisión Paritaria."
       ]
     },
     {
-      "artículo": "Artículo 2",
+      "articulo": 2,
       "titulo": "Ámbito territorial",
       "contenido": [
-        "Aplica a todas las empresas incluidas en el artículo 1 que operen en el territorio español."
+        "El Convenio afecta a todas las empresas que presten servicios dentro del territorio de todo el Estado español."
       ]
     },
     {
-      "artículo": "Artículo 3",
+      "articulo": 3,
       "titulo": "Ámbito personal",
       "contenido": [
-        "Afecta a todos los trabajadores de las empresas del ámbito funcional y territorial, salvo exclusiones del Estatuto de los Trabajadores."
+        "**Afecta a todas las personas trabajadoras** de las empresas incluidas en los ámbitos funcional y territorial, salvo excepciones específicas."
       ]
     },
     {
-      "artículo": "Artículo 4",
+      "articulo": 4,
       "titulo": "Ámbito temporal",
       "contenido": [
-        "Vigente desde su firma hasta el 31 de diciembre de 2024.",
-        "La denuncia debe hacerse por escrito con 2 meses de antelación.",
-        "Se prorroga automáticamente si no se denuncia.",
-        "Su contenido se mantiene vigente hasta que entre en vigor uno nuevo tras la denuncia."
+        "**El Convenio entra en vigor el día de su firma,** con una duración hasta el 31 de diciembre de 2024, salvo algunas cláusulas con vigencia distinta.\n\n",
+        "La denuncia del Convenio debe hacerse por escrito con una antelación mínima de dos meses.\n\n",
+        "**Una vez denunciado, el contenido normativo** se prorrogará hasta la entrada en vigor de un nuevo acuerdo."
       ]
     },
     {
-      "artículo": "Artículo 5",
+      "articulo": 5,
       "titulo": "Compensación y absorción",
       "contenido": [
-        "Condiciones del convenio son compensables con otras de naturaleza similar.",
-        "Subidas legales solo se aplican si superan globalmente lo pactado; si no, se absorben."
+        "**Las condiciones pactadas en este Convenio** son compensables con otras de naturaleza homogénea.\n\n",
+        "Las disposiciones legales futuras solo tendrán eficacia cuando superen a los establecidos en este Convenio."
       ]
     },
     {
-      "artículo": "Artículo 6",
+      "articulo": 6,
       "titulo": "Condición más beneficiosa",
       "contenido": [
-        "Se respetarán condiciones actuales más favorables para el trabajador, si existen, aunque sean individuales."
+        "**Las condiciones establecidas en este Convenio** son mínimas, y se deben respetar pactos y condiciones más beneficiosas acordadas previamente."
       ]
     },
     {
-      "artículo": "Artículo 7",
+      "articulo": 7,
       "titulo": "Indivisibilidad del convenio",
       "contenido": [
-        "El convenio es un todo único. Si un artículo se anula legalmente, se renegociará el conjunto."
+        "Las condiciones pactadas en este convenio son indivisibles y deben aplicarse conjuntamente.\n\n",
+        "**En caso de anulación de alguna disposición,** el Convenio se renegociará en su totalidad."
       ]
     },
     {
-      "artículo": "Artículo 8",
+      "articulo": 8,
       "titulo": "Publicidad",
       "contenido": [
-        "Las empresas deben tener el convenio disponible y visible en sus centros de trabajo."
+        "Las empresas deberán tener expuesto un ejemplar del Convenio en sus centros de trabajo para conocimiento de las personas trabajadoras."
       ]
     },
   ],
