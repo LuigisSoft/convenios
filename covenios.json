@@ -1,13 +1,17 @@
 {
   "Prodelivery": [
     {
-      "articulo": 1,
+      "articulo": "Artículo 1",
       "titulo": "Ámbito funcional",
       "contenido": [
         "El presente Convenio regula las relaciones laborales en empresas dedicadas a la preparación y elaboración de productos cocinados para su reparto a domicilio, e incluye otros productos como vídeos, libros, etc.",
+        "   ",
         "También afecta a las empresas franquiciadas que desarrollen esta actividad.",
+         "   ",
         "Abarca a las empresas afiliadas a PRODELIVERY.",
+         "   ",
         "Se excluyen las empresas dedicadas a catering, restauración rápida, restauración colectiva, bufés o autoservicios.",
+         "   ",
         "Las empresas que deseen aplicar este Convenio deben acreditar su actividad ante la Comisión Paritaria."
       ]
     },
