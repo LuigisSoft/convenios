@@ -1,13 +1,14 @@
 {
   "Prodelivery": [
 
-    "articulo": 1,
+    {
+      "articulo": 1,
       "titulo": "Ámbito funcional",
       "contenido": [
-        "**El presente Convenio regula las relaciones laborales** en empresas dedicadas a la preparación y elaboración de productos cocinados para su reparto a domicilio, e incluye otros productos como vídeos, libros, etc.\n\n",
-        "**También afecta a las empresas franquiciadas** que desarrollen esta actividad.\n\n",
-        "**Abarca a las empresas afiliadas a PRODELIVERY.**\n\n",
-        "Se excluyen las empresas dedicadas a catering, restauración rápida, restauración colectiva, bufés o autoservicios.\n\n",
+        "El presente Convenio regula las relaciones laborales en empresas dedicadas a la preparación y elaboración de productos cocinados para su reparto a domicilio, e incluye otros productos como vídeos, libros, etc.",
+        "También afecta a las empresas franquiciadas que desarrollen esta actividad.",
+        "Abarca a las empresas afiliadas a PRODELIVERY.",
+        "Se excluyen las empresas dedicadas a catering, restauración rápida, restauración colectiva, bufés o autoservicios.",
         "Las empresas que deseen aplicar este Convenio deben acreditar su actividad ante la Comisión Paritaria."
       ]
     },
@@ -22,23 +23,23 @@
       "articulo": 3,
       "titulo": "Ámbito personal",
       "contenido": [
-        "**Afecta a todas las personas trabajadoras** de las empresas incluidas en los ámbitos funcional y territorial, salvo excepciones específicas."
+        "Afecta a todas las personas trabajadoras de las empresas incluidas en los ámbitos funcional y territorial, salvo excepciones específicas."
       ]
     },
     {
       "articulo": 4,
       "titulo": "Ámbito temporal",
       "contenido": [
-        "**El Convenio entra en vigor el día de su firma,** con una duración hasta el 31 de diciembre de 2024, salvo algunas cláusulas con vigencia distinta.\n\n",
-        "La denuncia del Convenio debe hacerse por escrito con una antelación mínima de dos meses.\n\n",
-        "**Una vez denunciado, el contenido normativo** se prorrogará hasta la entrada en vigor de un nuevo acuerdo."
+        "El Convenio entra en vigor el día de su firma, con una duración hasta el 31 de diciembre de 2024, salvo algunas cláusulas con vigencia distinta.",
+        "La denuncia del Convenio debe hacerse por escrito con una antelación mínima de dos meses.",
+        "Una vez denunciado, el contenido normativo se prorrogará hasta la entrada en vigor de un nuevo acuerdo."
       ]
     },
     {
       "articulo": 5,
       "titulo": "Compensación y absorción",
       "contenido": [
-        "**Las condiciones pactadas en este Convenio** son compensables con otras de naturaleza homogénea.\n\n",
+        "Las condiciones pactadas en este Convenio son compensables con otras de naturaleza homogénea.",
         "Las disposiciones legales futuras solo tendrán eficacia cuando superen a los establecidos en este Convenio."
       ]
     },
@@ -46,15 +47,15 @@
       "articulo": 6,
       "titulo": "Condición más beneficiosa",
       "contenido": [
-        "**Las condiciones establecidas en este Convenio** son mínimas, y se deben respetar pactos y condiciones más beneficiosas acordadas previamente."
+        "Las condiciones establecidas en este Convenio son mínimas, y se deben respetar pactos y condiciones más beneficiosas acordadas previamente."
       ]
     },
     {
       "articulo": 7,
       "titulo": "Indivisibilidad del convenio",
       "contenido": [
-        "Las condiciones pactadas en este convenio son indivisibles y deben aplicarse conjuntamente.\n\n",
-        "**En caso de anulación de alguna disposición,** el Convenio se renegociará en su totalidad."
+        "Las condiciones pactadas en este convenio son indivisibles y deben aplicarse conjuntamente.",
+        "En caso de anulación de alguna disposición, el Convenio se renegociará en su totalidad."
       ]
     },
     {
