@@ -15,6 +15,7 @@
         "Las empresas que deseen aplicar este Convenio deben acreditar su actividad ante la Comisión Paritaria."
       ]
     },
+<<<<<<< HEAD
     {
       "articulo": "Artículo 2",
       "titulo": "Ámbito territorial",
@@ -87,3 +88,291 @@
     }
   ]
 }
+=======
+    {
+      "articulo": "Artículo 2",
+      "titulo": "Ámbito territorial",
+      "contenido": [
+        "El Convenio afecta a todas las empresas que presten servicios dentro del territorio de todo el Estado español."
+      ]
+    },
+    {
+      "articulo": "Artículo 3",
+      "titulo": "Ámbito personal",
+      "contenido": [
+        "Afecta a todas las personas trabajadoras de las empresas incluidas en los ámbitos funcional y territorial, salvo excepciones específicas."
+      ]
+    },
+    {
+      "articulo": "Artículo 4",
+      "titulo": "Ámbito temporal",
+      "contenido": [
+        "El Convenio entra en vigor el día de su firma, con una duración hasta el 31 de diciembre de 2024, salvo algunas cláusulas con vigencia distinta.",
+        "       ",
+        "La denuncia del Convenio debe hacerse por escrito con una antelación mínima de dos meses.",
+        "       ",
+        "Una vez denunciado, el contenido normativo se prorrogará hasta la entrada en vigor de un nuevo acuerdo."
+      ]
+    },
+    {
+      "articulo": "Artículo 5",
+      "titulo": "Compensación y absorción",
+      "contenido": [
+        "Las condiciones pactadas en este Convenio son compensables con otras de naturaleza homogénea.",
+        "       ",
+        "Las disposiciones legales futuras solo tendrán eficacia cuando superen a los establecidos en este Convenio."
+      ]
+    },
+    {
+      "articulo": "Artículo 6",
+      "titulo": "Condición más beneficiosa",
+      "contenido": [
+        "Las condiciones establecidas en este Convenio son mínimas, y se deben respetar pactos y condiciones más beneficiosas acordadas previamente."
+      ]
+    },
+    {
+      "articulo": "Artículo 7",
+      "titulo": "Indivisibilidad del convenio",
+      "contenido": [
+        "Las condiciones pactadas en este convenio son indivisibles y deben aplicarse conjuntamente.",
+        "       ",
+        "En caso de anulación de alguna disposición, el Convenio se renegociará en su totalidad."
+      ]
+    },
+    {
+      "articulo": "Artículo 8",
+      "titulo": "Publicidad",
+      "contenido": [
+        "Las empresas deberán tener expuesto un ejemplar del Convenio en sus centros de trabajo para conocimiento de las personas trabajadoras."
+      ]
+    },
+    {
+      "articulo": "Artículo 9",
+      "titulo": "Normativa complementaria",
+      "contenido": [
+        "Para todo lo no contemplado en este Convenio, se aplicará el Estatuto de los Trabajadores y la legislación laboral vigente en cada momento."
+      ]
+    },
+    {
+      "articulo": "Artículo 10",
+      "titulo": "Facultades de la Dirección",
+      "contenido": [
+        "La organización del trabajo en los distintos centros y unidades es competencia de la dirección de la empresa, conforme a la normativa legal y lo establecido en este convenio."
+      ]
+    },
+    {
+      "articulo": "Artículo 11",
+      "titulo": "Movilidad geográfica: Traslados y desplazamientos",
+      "contenido": [
+        "Los traslados a otros centros que impliquen cambio de residencia se regirán por el artículo 40 del Estatuto de los Trabajadores, salvo la indemnización que será de 30 días por año con un máximo de 12 mensualidades si el trabajador rescinde en el plazo legal.",
+        "La empresa debe notificar el traslado por escrito al trabajador y sus representantes con al menos 30 días de antelación.",
+        "El trabajador trasladado tiene derecho a compensación económica por gastos de traslado propios y de su familia conviviente.",
+        "Se otorga un permiso retribuido de 4 días laborables para realizar gestiones de búsqueda de residencia antes del traslado.",
+        "Los desplazamientos temporales se regirán por el artículo 40.6 del Estatuto de los Trabajadores.",
+        "Las dietas por desplazamientos temporales están definidas en el Anexo de Condiciones Económicas."
+      ]
+    },
+    {
+      "articulo": "Artículo 12",
+      "titulo": "Variabilidad en el lugar de prestación de servicios",
+      "contenido": [
+        "La empresa puede cambiar a los trabajadores de centro dentro de la misma localidad o municipios limítrofes por razones organizativas, técnicas o productivas.",
+        "Los trabajadores trasladados mantienen sus vacaciones previas salvo que el cambio sea voluntario.",
+        "En áreas metropolitanas, el cambio puede darse dentro del área sin considerarse movilidad geográfica.",
+        "Si el cambio es coyuntural, no se requiere preaviso; si es definitivo, se debe avisar con al menos 4 días.",
+        "Cambios de dos semanas o más deben notificarse por escrito.",
+        "Un trabajador desplazado no podrá ser trasladado de nuevo en los siguientes 4 meses, salvo retorno al centro original o cambio voluntario.",
+        "Los representantes de los trabajadores y cuidadores de familiares con discapacidad o enfermedad grave tienen prioridad para volver a su centro de origen cuando haya vacantes.",
+        "Representantes elegidos en centros con circunscripción estricta no podrán ser trasladados sin su consentimiento."
+      ]
+    },
+    {
+      "articulo": "Artículo 13",
+      "titulo": "Rendimiento mínimo exigible a la persona trabajadora que realice las tareas de reparto",
+      "contenido": [
+        "El rendimiento mínimo es realizar tres direcciones por hora durante la jornada laboral, salvo acuerdos colectivos que mejoren esta cifra.",
+        "Las empresas deben entregar mensualmente un comprobante sellado y firmado de las direcciones o viajes realizados por cada trabajador de reparto.",
+        "Se define \"dirección\" como el servicio desde el establecimiento hasta el domicilio o punto de entrega, regresando tras la entrega.",
+        "\"Multidirección\" es el servicio con varias entregas en diferentes domicilios antes de regresar al centro de trabajo, contabilizando cada entrega individual.",
+        "En áreas de reparto con desplazamientos largos (más de 30 minutos), el mínimo es de dos direcciones por hora.",
+        "Los repartos con grandes desplazamientos deben repartirse equitativamente entre los trabajadores para evitar que una persona reciba siempre estos viajes."
+      ]
+    },
+    {
+      "articulo": "Artículo 14",
+      "titulo": "Inaplicación de las condiciones de trabajo reguladas en el presente Convenio colectivo",
+      "contenido": [
+        "Para contribuir al mantenimiento del empleo, se puede acordar la inaplicación de ciertas condiciones de trabajo conforme al artículo 82.3 del Estatuto de los Trabajadores.",
+        "La empresa inicia el proceso comunicando por escrito a los representantes de los trabajadores y a la Comisión Paritaria, acompañando la comunicación de inicio del periodo de consultas.",
+        "La representación en las negociaciones corresponde a las secciones sindicales mayoritarias o, en ausencia de representación legal, a sindicatos representativos o comisiones internas designadas.",
+        "Durante el periodo de consultas, ambas partes deben negociar de buena fe para alcanzar un acuerdo que puede incluir medidas para evitar o mitigar los efectos negativos para los trabajadores.",
+        "La empresa debe presentar una memoria explicativa con las medidas propuestas, causas económicas, técnicas u organizativas, y un plan de viabilidad detallado.",
+        "Los representantes de los trabajadores deben mantener confidencialidad sobre la información recibida.",
+        "El acuerdo alcanzado debe detallar las nuevas condiciones de trabajo, su duración máxima y establecer un sistema de seguimiento conjunto.",
+        "El acuerdo debe ser comunicado a la Comisión Paritaria.",
+        "Si no se alcanza acuerdo, se aplicará el procedimiento del artículo 82.3 del Estatuto de los Trabajadores."
+      ]
+    },
+    {
+      "articulo": "Artículo 15",
+      "titulo": "Contratación",
+      "contenido": [
+        "Las personas trabajadoras se clasifican en fijos (jornada completa o parcial) y temporales (completa o parcial). También se pueden aplicar otros contratos conforme a la legislación vigente.",
+        "La contratación a tiempo parcial es importante en este sector debido a la concentración de trabajo en fines de semana, vacaciones, eventos deportivos y situaciones similares, siendo frecuente entre jóvenes y estudiantes.",
+        "Para fomentar la contratación indefinida, la concatenación de contratos por circunstancias de la producción que supere 18 meses en un período de 24 meses, sea directamente o mediante empresas de trabajo temporal, convierte automáticamente el contrato en indefinido.",
+        "También se considerará fija la persona que ocupe un puesto por más de 18 meses en 24 meses mediante contratos por circunstancias de producción, incluyendo contratos con empresas de trabajo temporal."
+      ]
+    },
+    {
+      "articulo": "Artículo 16",
+      "titulo": "Ingresos",
+      "contenido": [
+        "El ingreso de nuevas personas trabajadoras se realizará conforme a la legislación vigente y lo establecido en este Convenio, atendiendo a las necesidades empresariales.",
+        "Las empresas deben cumplir las obligaciones derivadas de los artículos 8.3, 64.1 y 64.2 del Estatuto de los Trabajadores."
+      ]
+    },
+    {
+      "articulo": "Artículo 17",
+      "titulo": "Contrato por circunstancias de la producción",
+      "contenido": [
+        "Las empresas pueden formalizar contratos temporales por incrementos ocasionales e imprevisibles de actividad, incluyendo vacaciones anuales, que generen desajustes temporales en el empleo.",
+        "La duración máxima de estos contratos es de seis meses, pudiendo prorrogarse una vez, sin exceder ese límite.",
+        "También se permiten contratos para situaciones previsibles y de duración corta, con un máximo de 90 días al año, no continuos, con previsión anual comunicada a los representantes de los trabajadores.",
+        "El contrato debe especificar claramente la causa y circunstancias que justifican la temporalidad.",
+        "Lo no regulado aquí se rige por el artículo 15 del Estatuto de los Trabajadores y normativa aplicable."
+      ]
+    },
+    {
+      "articulo": "Artículo 18",
+      "titulo": "Contrato por sustitución",
+      "contenido": [
+        "Se pueden celebrar contratos temporales para sustituir a un trabajador con reserva de puesto, especificando en el contrato el nombre y causa de la sustitución.",
+        "La prestación de servicios podrá empezar antes de la ausencia del sustituido, coincidiendo hasta 15 días para garantizar la adecuada transición.",
+        "También se puede contratar para completar la jornada reducida de otro trabajador, indicando nombre y causa en el contrato.",
+        "Se permite contrato temporal para cubrir un puesto durante selección o promoción, con duración máxima de 3 meses y sin poder prorrogarlo.",
+        "Lo no regulado aquí se rige por el artículo 15 del Estatuto de los Trabajadores y normativa aplicable."
+      ]
+    },
+    {
+      "articulo": "Artículo 19",
+      "titulo": "Contrato a tiempo parcial",
+      "contenido": [
+        "El contrato a tiempo parcial es aquel con menos horas que la jornada anual máxima establecida en el convenio.",
+        "Puede ser indefinido o temporal, formalizado siempre por escrito con detalle de horas y su distribución.",
+        "No se pueden hacer horas extras salvo excepciones legales.",
+        "Se pueden pactar horas complementarias como adición, que no superen el 45% de las horas ordinarias, con preaviso de 7 días.",
+        "Las horas complementarias se pagan y cotizan igual que las ordinarias y deben constar en nóminas y documentos de la Seguridad Social.",
+        "Trabajadores con pacto de horas complementarias pueden excluir hasta 2 meses anuales por responsabilidades familiares o estudios, con preaviso de 15 días.",
+        "El pacto puede quedar sin efecto tras un año, con preaviso de 15 días y causas justificadas como familia, estudios o incompatibilidad con otro contrato.",
+        "Si se agotan las horas complementarias en un año, el 20% se consolida como jornada ordinaria el año siguiente, con acuerdo escrito en enero.",
+        "La jornada a tiempo parcial se distribuirá según el artículo 26 del convenio.",
+        "Lo no previsto se regula por el artículo 12 del Estatuto de los Trabajadores y normativa vigente."
+      ]
+    },
+    {
+      "articulo": "Artículo 20",
+      "titulo": "Contrato de formación en alternancia",
+      "contenido": [
+        "Contrato que combina trabajo remunerado y formación profesional, universitaria o del Sistema Nacional de Empleo, solo para grupos II de Oficinas, Tiendas y Fábrica.",
+        "Se celebra con personas sin cualificación profesional reconocida, y en ciertos casos solo con menores de 30 años.",
+        "La actividad laboral debe estar ligada a la formación y estar coordinada con planes formativos de centros o universidades.",
+        "Se designan tutores en empresa y centro formativo para seguimiento del plan individual.",
+        "La formación incluye teoría y práctica, con planes elaborados en cooperación entre empresa y centro formativo.",
+        "Duración mínima de 3 meses y máxima de 2 años, pudiendo prorrogarse hasta obtener el título sin superar 2 años.",
+        "Se permite un contrato por ciclo formativo, pero pueden existir varios en diferentes empresas para actividades distintas, sin superar duración máxima.",
+        "El trabajo efectivo no podrá superar el 65% de jornada en el primer año y el 85% en el segundo, compatible con formación.",
+        "No se permiten contratos formativos si la persona ya ha trabajado más de 6 meses en el mismo puesto en la empresa.",
+        "No se pueden realizar horas complementarias, extraordinarias, trabajos nocturnos ni a turnos, salvo excepciones para formación.",
+        "No hay periodo de prueba.",
+        "Retribución según grupo profesional y categoría.",
+        "Lo no previsto se rige por el artículo 11 del Estatuto de los Trabajadores y normativa vigente."
+      ]
+    },
+    {
+      "articulo": "Artículo 21",
+      "titulo": "Contrato formativo para la obtención de la práctica profesional",
+      "contenido": [
+        "Contrato para personas con título universitario, grado medio o superior, máster, certificado de formación profesional o títulos equivalentes artísticos o deportivos.",
+        "Debe celebrarse dentro de 3 años tras finalizar estudios (5 años si la persona tiene discapacidad).",
+        "No podrá contratarse a quien tenga más de 3 meses de experiencia o formación en la misma actividad en la empresa, salvo formación curricular.",
+        "Duración mínima de 6 meses y máxima de 1 año.",
+        "Una persona no podrá superar estos límites temporales con la misma titulación o certificado, ni en la misma empresa para el mismo puesto.",
+        "Títulos universitarios grado, máster y doctorado se consideran distintos, salvo excepciones.",
+        "Se podrá establecer un periodo de prueba máximo de un mes.",
+        "El puesto debe permitir la práctica profesional adecuada y la empresa debe elaborar un plan formativo individual y designar un tutor con experiencia.",
+        "Al finalizar el contrato, la persona tendrá derecho a un certificado de la práctica realizada.",
+        "No se permiten horas extraordinarias salvo excepciones legales.",
+        "Retribución conforme al convenio para el puesto equivalente.",
+        "Lo no previsto se regula por el artículo 11 del Estatuto de los Trabajadores y normativa vigente."
+      ]
+    },
+    {
+      "articulo": "Artículo 22",
+      "titulo": "Empresas de Trabajo Temporal",
+      "contenido": [
+        "Los contratos con Empresas de Trabajo Temporal se usarán para cubrir actividades permitidas por la ley.",
+        "No se podrán celebrar contratos si en los últimos 12 meses la empresa amortizó esos puestos por despido improcedente o causas legales, salvo fuerza mayor.",
+        "Los trabajadores cedidos a empresas usuarias tendrán derecho a la retribución mínima establecida en este convenio para el puesto."
+      ]
+    },
+    {
+      "articulo": "Artículo 23",
+      "titulo": "Período de prueba",
+      "contenido": [
+        "El período de prueba debe constar por escrito y tiene una duración máxima según tipo de contrato y grupo profesional.",
+        "Para contratos indefinidos y fijos discontinuos, varía entre 15 y 90 días según área y grupo.",
+        "Para contratos temporales superiores a 3 meses, el período es menor, de 30 a 75 días.",
+        "Para contratos temporales hasta 3 meses, el período es aún menor, de 15 a 60 días.",
+        "Excepcionalmente, para puestos directivos, el período puede llegar a 6 meses en contratos indefinidos y 4 meses en temporales.",
+        "En contratos a tiempo parcial se aplica igual criterio, con un máximo de 20 o 30 días efectivos según duración.",
+        "No hay nuevos períodos de prueba en prórrogas o si la persona ya superó la prueba en funciones similares.",
+        "Situaciones como incapacidad temporal o maternidad interrumpen el cómputo si hay acuerdo.",
+        "Durante la prueba, cualquiera puede rescindir sin preaviso ni indemnización.",
+        "La remuneración durante el período de prueba será la correspondiente al grupo y nivel salarial.",
+        "Si no hay denuncia al terminar el período, la persona continúa en la empresa con las condiciones pactadas."
+      ]
+    },
+    {
+      "articulo": "Artículo 24",
+      "titulo": "Ceses",
+      "contenido": [
+        "Las personas trabajadoras deben preavisar su cese voluntario con antelación según área y grupo:",
+        "- Área de Oficinas: Grupo I, 1 mes; Grupo II, 12 días.",
+        "- Área de Tiendas y Fábrica: Grupo I, 1 mes; Grupo II niveles I y II, 10 días; nivel III, 9 días.",
+        "Las empresas deben preavisar al menos 15 días para ceses en contratos temporales, salvo contrato de interinidad o despidos disciplinarios.",
+        "El incumplimiento del preaviso da derecho a indemnización o descuento equivalente a un día de salario por cada día de retraso.",
+        "Las empresas entregarán propuesta de liquidación previa a la firma del finiquito para que la persona trabajadora pueda asesorarse."
+      ]
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  ]
+  ,
+  "Zena": [
+    {
+      "articulo": "Artículo 1",
+      "titulo": "Términos generales",
+      "contenido": "Este artículo cubre los términos generales del convenio."
+    },
+    {
+      "articulo": "Artículo 2",
+      "titulo": "Condiciones laborales",
+      "contenido": "Este artículo trata sobre las condiciones laborales específicas en el convenio."
+    }
+  ]
+}
+>>>>>>> d3c07c3 (Actualizado contenido de covenios.json)
