@@ -368,210 +368,110 @@
         "Se respetarán acuerdos internos de teletrabajo ya existentes en las empresas."
       ]
     },
-    {
-  "articulo": 33,
-  "titulo": "Áreas funcionales y grupos profesionales",
-  "factores_encuadramiento": {
-    "autonomia": "Grado de dependencia jerárquica en el desempeño de las funciones.",
-    "formacion": "Conocimientos necesarios, formación continua, experiencia y dificultad de adquisición.",
-    "iniciativa": "Grado de seguimiento de directrices o autonomía en la ejecución.",
-    "mando": "Capacidad de supervisión y ordenación de tareas, y número de personas bajo responsabilidad.",
-    "responsabilidad": "Nivel de autonomía, influencia en resultados y gestión de recursos.",
-    "complejidad": "Suma de los factores anteriores que inciden sobre las funciones."
+    [
+  {
+    "articulo": "Artículo 33",
+    "titulo": "Preaviso de baja voluntaria",
+    "contenido": [
+      "El trabajador que desee causar baja voluntaria debe avisar con antelación.",
+      "Mandos intermedios y técnicos: 1 mes de preaviso.",
+      "Personal de base: 15 días naturales de preaviso.",
+      "Si no se cumple el plazo, la empresa puede descontar los días no avisados de la liquidación.",
+      "Avisar con tiempo evita descuentos y facilita la organización del trabajo."
+    ]
   },
-  "areas_funcionales": [
-    {
-      "nombre": "Oficinas",
-      "grupos_profesionales": [
-        {
-          "grupo": 1,
-          "niveles_salariales": [
-            {
-              "nivel": 1,
-              "categoria": "Directores y Titulados Superiores",
-              "descripcion": "Funciones de dirección, control y gestión de departamentos. Requiere título universitario."
-            },
-            {
-              "nivel": 2,
-              "categoria": "Managers",
-              "descripcion": "Gestión, organización y control de tareas bajo supervisión del Director. Posible coordinación de personal."
-            }
-          ]
-        },
-        {
-          "grupo": 2,
-          "niveles_salariales": [
-            {
-              "nivel": 1,
-              "categoria": "Administración y Servicios Generales",
-              "descripcion": "Tareas administrativas con cierta autonomía. Puede requerir titulación específica o experiencia."
-            }
-          ]
-        }
-      ]
-    }
-  ]
-},
-{
-  "articulo": 34,
-  "titulo": "Movilidad funcional",
-  "descripcion_general": "La movilidad funcional se ajustará a lo establecido en el artículo 22.2 del Estatuto de los Trabajadores.",
-  "normas": [
-    {
-      "caso": "Desempeño temporal de funciones de un grupo o nivel superior",
-      "condicion": "Cuando una persona trabajadora realiza funciones de un grupo profesional o nivel salarial superior por necesidades organizativas.",
-      "compensacion": "Se percibirá el salario correspondiente al grupo profesional o nivel superior desempeñado."
-    },
-    {
-      "caso": "Cobertura de ausencias o reducciones de jornada de otros trabajadores",
-      "condicion": "Si se atribuyen funciones superiores para cubrir ausencias previstas en el artículo 45.1 (c, d, e, h) del Estatuto de los Trabajadores.",
-      "limitacion": "No supondrá la consolidación del puesto si no se superan los plazos legales establecidos."
-    }
-  ],
-  "referencias_legales": [
-    "Artículo 22.2 del Estatuto de los Trabajadores",
-    "Artículo 45.1.c), d), e), h) del Estatuto de los Trabajadores"
-  ]
-},
-{
-  "articulo": 35,
-  "titulo": "Estructura salarial",
-  "estructura": {
-    "salario_base": {
-      "descripcion": "Parte fija de la retribución basada en unidad de tiempo, sin considerar complementos. Remunera la jornada anual efectiva y descansos legales y convencionales."
-    },
-    "complementos_salariales": {
-      "complementos_personales": {
-        "descripcion": "Derivan de condiciones personales no valoradas en el salario base.",
-        "ejemplos": ["títulos", "idiomas", "conocimientos especiales", "otros análogos"]
-      },
-      "complementos_puesto_trabajo": {
-        "descripcion": "Por características del puesto desempeñado. Son funcionales y no consolidables."
-      },
-      "complementos_calidad_cantidad": {
-        "descripcion": "Por mejor calidad o mayor cantidad de trabajo. Incluyen premios, incentivos, pluses y horas extra. No son consolidables."
-      },
-      "complementos_vencimiento_superior_mes": {
-        "descripcion": "Incluyen gratificaciones extraordinarias, de permanencia y similares."
-      }
-    },
-    "retribuciones_en_especie": {
-      "descripcion": "Servicios o beneficios como manutención, alojamiento, etc., siempre que no formen parte del salario base."
-    },
-    "complementos_extrasalariales": {
-      "descripcion": "No derivan de la actividad laboral, sino que compensan gastos por ejecución del trabajo o cubren necesidades/inactividad no imputables al trabajador."
-    }
+  {
+    "articulo": "Artículo 34",
+    "titulo": "Cese por disminución del rendimiento",
+    "contenido": [
+      "Si el rendimiento del trabajador baja notablemente sin causa justificada, puede ser sancionado o despedido.",
+      "Se recomienda justificar cualquier causa ajena que afecte al rendimiento (salud, equipos, etc.).",
+      "La empresa debe acreditar la disminución y actuar conforme al procedimiento disciplinario."
+    ]
+  },
+  {
+    "articulo": "Artículo 35",
+    "titulo": "Excedencias",
+    "contenido": [
+      "El trabajador puede pedir una excedencia para dejar su puesto temporalmente y conservar el derecho a reincorporarse.",
+      "Excedencia voluntaria: entre 4 meses y 5 años, con un año mínimo de antigüedad.",
+      "Excedencia por cuidado de familiares: hasta 3 años para hijos o familiares dependientes.",
+      "Durante la excedencia no se cobra ni cotiza, pero se mantiene el derecho preferente al reingreso si hay vacantes."
+    ]
+  },
+  {
+    "articulo": "Artículo 36",
+    "titulo": "Traslados",
+    "contenido": [
+      "Si la empresa traslada al trabajador a otro centro que implique cambio de residencia, debe avisar con 30 días.",
+      "El trabajador puede aceptar o rescindir su contrato con indemnización de 20 días por año trabajado (máximo 12 meses).",
+      "Protege al trabajador frente a traslados forzosos y garantiza compensación en caso de rescisión."
+    ]
+  },
+  {
+    "articulo": "Artículo 37",
+    "titulo": "Movilidad funcional",
+    "contenido": [
+      "La empresa puede asignar tareas distintas si son del mismo grupo profesional.",
+      "No puede usarse para degradar al trabajador ni perjudicar sus derechos.",
+      "Si realiza tareas superiores más de 4 meses al año, cobrará el salario correspondiente.",
+      "Permite flexibilidad sin pérdida de derechos ni salario."
+    ]
+  },
+  {
+    "articulo": "Artículo 38",
+    "titulo": "Régimen disciplinario",
+    "contenido": [
+      "Define las faltas y sanciones aplicables según su gravedad.",
+      "Faltas leves: retrasos, descuidos o pequeñas faltas de puntualidad.",
+      "Faltas graves: ausencias injustificadas, desobediencia, abuso de confianza.",
+      "Faltas muy graves: fraude, robo, acoso, agresión o incumplimientos reiterados.",
+      "Cada falta tiene su sanción proporcional (amonestación, suspensión o despido)."
+    ]
+  },
+  {
+    "articulo": "Artículo 39",
+    "titulo": "Representación sindical",
+    "contenido": [
+      "Los trabajadores pueden elegir delegados o comités de empresa.",
+      "Estos representantes pueden reunirse, informar y negociar con la dirección.",
+      "Disponen de tablones informativos y tiempo sindical según la ley.",
+      "Garantiza la defensa colectiva de los derechos laborales."
+    ]
+  },
+  {
+    "articulo": "Artículo 40",
+    "titulo": "Comisión Paritaria",
+    "contenido": [
+      "Órgano formado por representantes de empresa y trabajadores.",
+      "Sus funciones son interpretar el convenio, resolver conflictos y mediar en desacuerdos.",
+      "Permite evitar acudir a tribunales para cuestiones interpretativas.",
+      "Favorece el diálogo y la solución interna de conflictos."
+    ]
+  },
+  {
+    "articulo": "Artículo 41",
+    "titulo": "Formación profesional",
+    "contenido": [
+      "La empresa debe fomentar la formación continua del personal.",
+      "Se pueden realizar cursos dentro o fuera del horario laboral.",
+      "Los trabajadores tienen derecho a asistir si la formación está relacionada con su puesto.",
+      "Favorece el desarrollo profesional y mejora la empleabilidad."
+    ]
+  },
+  {
+    "articulo": "Artículo 42",
+    "titulo": "Igualdad y no discriminación",
+    "contenido": [
+      "Se prohíbe cualquier discriminación por sexo, edad, origen, orientación sexual, religión o discapacidad.",
+      "Se promueve la igualdad de oportunidades entre hombres y mujeres.",
+      "Especial atención a la igualdad en promoción y retribución.",
+      "Garantiza un entorno laboral justo, inclusivo y respetuoso."
+    ]
   }
-},
-{
-  "articulo": 36,
-  "titulo": "Gratificaciones extraordinarias",
-  "gratificaciones": {
-    "numero": 2,
-    "fechas_pago": ["30 de junio", "20 de diciembre"],
-    "importe": "Equivalente al salario base mensual",
-    "prorrateo": {
-      "descripcion": "La cuantía podrá prorratearse en las doce mensualidades ordinarias.",
-      "condicion": "Salvo acuerdo en contrario"
+]
     },
-    "proporcionalidad": {
-      "caso": "Ingreso o cese durante el año",
-      "descripcion": "Se percibirá la parte proporcional correspondiente al tiempo trabajado."
-    }
-  }
-},
-{
-  "articulo": 37,
-  "titulo": "Plus de nocturnidad",
-  "descripcion_general": "Las horas trabajadas entre las 22:00 y las 6:00 se retribuyen según lo establecido en las tablas salariales del Anexo de Condiciones Económicas.",
-  "periodo_nocturno": {
-    "inicio": "22:00",
-    "fin": "06:00",
-    "retribucion": "Según tablas salariales por nivel salarial"
-  },
-  "horas_especiales": {
-    "rango": {
-      "inicio": "22:00",
-      "fin": "24:00"
-    },
-    "porcentaje_retribucion": 25,
-    "descripcion": "Las horas trabajadas entre las 22:00 y las 00:00 se retribuyen al 25% del plus de nocturnidad establecido."
-  },
-  "referencia_anexo": "Tablas salariales del Anexo de Condiciones Económicas del Convenio colectivo"
-},
-{
-  "articulo": 38,
-  "titulo": "Pluses grupo profesional I Área de Tiendas: Plus Puesto",
-  "aplicacion": {
-    "area_funcional": "Tiendas",
-    "grupo_profesional": 1,
-    "descripcion": "El personal del Grupo Profesional I del Área de Tiendas percibirá un complemento salarial denominado 'Plus Puesto' debido a las especiales funciones de responsabilidad que desarrollan."
-  },
-  "complemento": {
-    "nombre": "Plus Puesto",
-    "tipo": "Complemento salarial",
-    "criterio_asignacion": "Según el nivel dentro del Grupo Profesional I al que esté adscrita la persona trabajadora",
-    "cuantia": "Determinada en el Anexo de Condiciones Económicas"
-  },
-  "referencia_anexo": "Tablas salariales del Anexo de Condiciones Económicas del Convenio colectivo"
-},
-{
-  "articulo": 39,
-  "titulo": "Plus jefe de equipo Área de Fábrica",
-  "aplicacion": {
-    "area_funcional": "Fábrica",
-    "grupo_profesional": 1,
-    "puesto": "Jefe de equipo",
-    "descripcion": "Se otorga a jefes de equipo que asumen la gestión total de un área completa de trabajo en obradores o almacenes."
-  },
-  "condiciones_para_percibirlo": {
-    "responsabilidades": [
-      "Gestión de presupuestos",
-      "Dirección de equipos",
-      "Control de producción",
-      "Control de mercancías y abastecimiento",
-      "Labores análogas"
-    ],
-    "caracteristica_clave": "Responsabilidad exclusiva y total sobre un área de trabajo"
-  },
-  "complemento": {
-    "nombre": "Plus Jefe de Equipo",
-    "tipo": "Complemento salarial",
-    "cuantia": "Determinada en el Anexo de Condiciones Económicas"
-  },
-  "referencia_anexo": "Tablas salariales del Anexo de Condiciones Económicas del Convenio colectivo"
-},
-{
-  "articulo": 40,
-  "titulo": "Uniformidad",
-  "normas_generales": {
-    "dotacion": "Las empresas proporcionarán uniformidad adecuada dos veces al año.",
-    "obligatoriedad": "Si se exige uniformidad, la empresa deberá facilitarla en función de la actividad concreta y particularidades del puesto.",
-    "reposición_anticipada": "En caso de deterioro anticipado, la empresa deberá reponer el uniforme antes del plazo habitual de reposición."
-  },
-  "casos_especiales": [
-    {
-      "descripcion": "Uso de pantalón corto tipo bermuda para labores de cuponeo",
-      "condiciones": {
-        "solicitud_previa": true,
-        "aportacion": "La prenda la proporciona el trabajador/a",
-        "requisitos": "Debe cumplir las condiciones mínimas establecidas por la empresa"
-      }
-    }
-  ],
-  "uniformidad_reparto": {
-    "casco_empresa": {
-      "entrega": "Un casco por trabajador/a que realice reparto en motocicletas de la empresa",
-      "devolucion": "Debe devolverse al finalizar la relación laboral, en buen estado salvo el desgaste normal",
-      "uso": "Solo puede usarse para el trabajo. Debe permanecer en el centro si no se está trabajando",
-      "responsabilidad": "El trabajador/a es responsable del buen mantenimiento y uso del casco"
-    },
-    "casco_propio": {
-      "condicion": "Si el repartidor/a usa su moto propia",
-      "requisito": "Debe aportar casco debidamente homologado"
-    }
-  }
-},
+
 {
   "articulo": 41,
   "titulo": "Seguro de accidentes",
