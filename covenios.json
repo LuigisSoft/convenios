@@ -839,50 +839,55 @@
   ]
 },
     {
-  "disposiciones": [
-    {
-      "titulo": "Disposición adicional primera. Motos de empresa",
-      "contenido": [
-        "Las partes que firman el presente convenio, conscientes de la necesidad de homogeneizar el sector, básica y primordialmente por lo que se refiere a la forma y contenido de la prestación de servicios de las personas que realizan tareas de reparto, entienden como de suma importancia que las empresas, de forma progresiva, ofrezcan a aquéllos la posibilidad de desarrollar sus labores propias con motos cuya propiedad o titularidad la ostenten las indicadas empresas, en los supuestos en que no lo estuvieran efectuando al día de la firma del presente Convenio colectivo.",
-        "Por ello se establece expresamente que a fin de que las empresas del sector potencien la medida apuntada en el párrafo anterior, aquellas entidades que a fecha 1 de enero de 2024 no hubiesen procedido a dar cumplimiento a lo reseñado en los apartados anteriores, es decir, mantengan en sus plantillas a personas que realicen tareas de reparto que aporten sus propias motos, deberán cumplir con lo desarrollado a continuación:",
-        "1.º Procederán a incrementar, a partir de la indicada fecha, el seguro de accidentes desarrollado en el presente Convenio que hubiesen concertado a favor de los repartidores que efectúen su prestación de servicios con moto propia, hasta una cuantía de 36.000 euros, cubriendo a favor de éstos o de sus beneficiarios los riesgos de fallecimiento por accidente o incapacidad permanente absoluta, producidas exclusivamente durante la prestación de sus servicios o en aquellos accidentes de carácter laboral que se pudieran producir in itinere.",
-        "2.º Del mismo modo, procederá a incrementar en 0,060 euros la cifra o importe de los gastos por la aportación de vehículo propio."
-      ]
-    },
-    {
-      "titulo": "Disposición adicional segunda. Aplicación del convenio en las franquicias",
-      "contenido": [
-        "Las franquicias velarán por el cumplimiento escrupuloso e íntegro de todas las estipulaciones contenidas en el presente Convenio colectivo. En los supuestos de sucesión empresarial por cambio en la figura del empresario, deberán respetar en todos sus extremos aquellos derechos adquiridos y/o condiciones más beneficiosas que sus nuevos empleados y empleadas vinieran ostentando."
-      ]
-    },
-    {
-      "titulo": "Disposición transitoria primera. Plantillas",
-      "contenido": [
-        "En consonancia con lo apuntado en el capítulo III de este convenio, las empresas conscientes de la necesidad tanto de mantener como de incrementar progresivamente el volumen de empleo fijo, lo que conllevará un mejor servicio a los clientes, se comprometen a que como máximo antes de la finalización de la vigencia de la presente norma colectiva, alcancen un porcentaje de personas trabajadoras indefinidas en sus plantillas no inferior a un 80 por 100.",
-        "Tal porcentaje únicamente se aplicará y afectará a aquellas personas trabajadoras incluidas dentro del ámbito personal de este Convenio.",
-        "A los efectos del pertinente seguimiento de lo acordado, se faculta expresamente a la Comisión Paritaria y a los representantes legales de los trabajadores para que recaben de las empresas la información necesaria para asegurar el efectivo cumplimiento del citado compromiso."
-      ]
-    },
-    {
-      "titulo": "Disposición transitoria segunda. Antigüedad",
-      "contenido": [
-        "Las personas trabajadoras en plantilla que estuvieran prestando sus servicios a la firma del Convenio Colectivo correspondiente al período 2000-2002, mantendrán como condición más beneficiosa ad personam la cuantía que tuvieran devengada como antigüedad consolidada, la cual será revisada con el incremento que se pacte en el presente convenio y que no será ni compensable ni absorbible."
-      ]
-    },
-    {
-      "titulo": "Disposición transitoria tercera. Nocturnidad",
-      "contenido": [
-        "Aquellas personas trabajadoras que a la fecha de la firma del presente Convenio colectivo continuasen percibiendo el abono de las horas trabajadas en horario nocturno en el porcentaje y fórmula de cálculo estipulada en el Convenio colectivo del período 2000-2002, mantendrán el derecho a percibir dicha suma como una condición ad personam que no podrá ser ni absorbida ni compensada."
-      ]
-    },
-    {
-      "titulo": "Disposición transitoria cuarta. Comisión de trabajo regulación figura contrato fijo discontinuo en el sector y otras novedades en materia contractual",
-      "contenido": [
-        "A los efectos de adecuar al sector y a sus particularidades y especificidades tanto la nueva figura de la contratación fija discontinua prevista en el Real Decreto 32/2021, de 28 de diciembre, así como aquellas otras cuestiones en materia contractual, incluida la negociación de una compensación mínima sectorial por gastos vinculados al trabajo a distancia, más allá de las adecuaciones ya realizadas en el texto del presente convenio, las partes expresamente acuerdan constituir una comisión de trabajo a tal efecto.",
-        "Dicha comisión estará formada por tres miembros en representación de la asociación patronal firmante del presente convenio así como por otros tres miembros en representación de los sindicatos igualmente firmantes de esta norma colectiva.",
-        "En la primera reunión que lleve a cabo esta comisión se acordará entre las partes un reglamento de actuación y un calendario de reuniones con el objetivo de concluir sus trabajos antes de la finalización de diciembre de 2022."
-      ]
-    }
+  "articulo": "Disposición adicional primera",
+  "titulo": "Motos de empresa",
+  "contenido": [
+    "Las partes firmantes del convenio reconocen la necesidad de homogeneizar el sector, especialmente en la forma de trabajo de los repartidores. Se considera importante que las empresas ofrezcan progresivamente a los repartidores la posibilidad de usar motos propiedad de la empresa.",
+    "Las empresas que a 1 de enero de 2024 aún mantengan repartidores con moto propia deberán:",
+    "1.º Incrementar el seguro de accidentes a favor de los repartidores con moto propia hasta una cuantía de 36.000 euros, cubriendo fallecimiento o incapacidad permanente absoluta durante la prestación del servicio o en accidentes laborales in itinere.",
+    "2.º Incrementar en 0,060 euros la cantidad correspondiente a los gastos por uso de vehículo propio."
+  ]
+},
+{
+  "articulo": "Disposición adicional segunda",
+  "titulo": "Aplicación del convenio en las franquicias",
+  "contenido": [
+    "Las franquicias deberán garantizar el cumplimiento completo del convenio colectivo.",
+    "En casos de cambio de titularidad o sucesión empresarial, los nuevos propietarios deberán respetar los derechos adquiridos y condiciones más beneficiosas de los trabajadores existentes."
+  ]
+},
+{
+  "articulo": "Disposición transitoria primera",
+  "titulo": "Plantillas",
+  "contenido": [
+    "Las empresas se comprometen a alcanzar, antes de que finalice la vigencia del convenio, un mínimo del 80% de trabajadores con contrato indefinido.",
+    "Este porcentaje aplica únicamente a las personas incluidas dentro del ámbito personal del convenio.",
+    "La Comisión Paritaria y los representantes de los trabajadores podrán solicitar información a las empresas para asegurar el cumplimiento de este compromiso."
+  ]
+},
+{
+  "articulo": "Disposición transitoria segunda",
+  "titulo": "Antigüedad",
+  "contenido": [
+    "Los trabajadores que ya prestaban servicios durante el convenio 2000-2002 mantendrán como condición más beneficiosa la antigüedad consolidada que tuvieran reconocida.",
+    "Dicha cuantía se actualizará con los incrementos pactados en el presente convenio y no podrá ser compensada ni absorbida."
+  ]
+},
+{
+  "articulo": "Disposición transitoria tercera",
+  "titulo": "Nocturnidad",
+  "contenido": [
+    "Los trabajadores que a la firma del presente convenio continuasen percibiendo el plus de nocturnidad según el convenio 2000-2002 conservarán ese derecho como condición personal.",
+    "Este complemento no podrá ser absorbido ni compensado."
+  ]
+},
+{
+  "articulo": "Disposición transitoria cuarta",
+  "titulo": "Comisión de trabajo para la regulación del contrato fijo discontinuo y otras novedades contractuales",
+  "contenido": [
+    "Se acuerda crear una comisión de trabajo para adaptar al sector la figura del contrato fijo discontinuo establecida en el Real Decreto 32/2021, así como otras cuestiones relacionadas con la contratación y la compensación por teletrabajo.",
+    "La comisión estará formada por tres representantes de la patronal y tres de los sindicatos firmantes del convenio.",
+    "En su primera reunión se aprobará un reglamento de actuación y un calendario de reuniones, con el objetivo de finalizar sus trabajos antes de diciembre de 2022."
   ]
 }
 
