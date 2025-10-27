@@ -369,173 +369,98 @@
       ]
     },
     
+
   {
     "articulo": "Artículo 33",
-    "titulo": "Preaviso de baja voluntaria",
+    "titulo": "Áreas funcionales y grupos profesionales",
     "contenido": [
-      "El trabajador que desee causar baja voluntaria debe avisar con antelación.",
-      "Mandos intermedios y técnicos: 1 mes de preaviso.",
-      "Personal de base: 15 días naturales de preaviso.",
-      "Si no se cumple el plazo, la empresa puede descontar los días no avisados de la liquidación.",
-      "Avisar con tiempo evita descuentos y facilita la organización del trabajo."
+      "Las empresas clasifican a sus trabajadores en diferentes áreas y grupos según el tipo de trabajo que realizan.",
+      "Factores importantes para esta clasificación: autonomía, formación, iniciativa, mando, responsabilidad y complejidad del trabajo.",
+      "Áreas principales: Oficinas, Tiendas y Fábrica, cada una con grupos profesionales y niveles salariales.",
+      "Por ejemplo, en Oficinas, hay Directores y Managers; en Tiendas, Encargados, Subencargados y personal de reparto; en Fábrica, Jefes de equipo, Oficiales y ayudantes.",
+      "Cada nivel tiene funciones claras y responsabilidades específicas."
     ]
   },
   {
     "articulo": "Artículo 34",
-    "titulo": "Cese por disminución del rendimiento",
+    "titulo": "Movilidad funcional",
     "contenido": [
-      "Si el rendimiento del trabajador baja notablemente sin causa justificada, puede ser sancionado o despedido.",
-      "Se recomienda justificar cualquier causa ajena que afecte al rendimiento (salud, equipos, etc.).",
-      "La empresa debe acreditar la disminución y actuar conforme al procedimiento disciplinario."
+      "Si por necesidades de la empresa un trabajador realiza tareas de un grupo superior, recibirá el salario correspondiente a ese grupo.",
+      "Esto no significa que cambie de grupo permanentemente; solo se paga mientras realiza esas funciones."
     ]
   },
   {
     "articulo": "Artículo 35",
-    "titulo": "Excedencias",
+    "titulo": "Estructura salarial",
     "contenido": [
-      "El trabajador puede pedir una excedencia para dejar su puesto temporalmente y conservar el derecho a reincorporarse.",
-      "Excedencia voluntaria: entre 4 meses y 5 años, con un año mínimo de antigüedad.",
-      "Excedencia por cuidado de familiares: hasta 3 años para hijos o familiares dependientes.",
-      "Durante la excedencia no se cobra ni cotiza, pero se mantiene el derecho preferente al reingreso si hay vacantes."
+      "El salario se compone de varias partes: salario base, complementos salariales, retribuciones en especie y complementos extrasalariales.",
+      "Complementos personales: títulos, idiomas u otros conocimientos.",
+      "Complementos de puesto: dependen de las funciones del puesto.",
+      "Complementos de calidad/cantidad: incentivos por buen trabajo o productividad.",
+      "Complementos de vencimiento superior al mes: gratificaciones extraordinarias."
     ]
   },
   {
     "articulo": "Artículo 36",
-    "titulo": "Traslados",
+    "titulo": "Gratificaciones extraordinarias",
     "contenido": [
-      "Si la empresa traslada al trabajador a otro centro que implique cambio de residencia, debe avisar con 30 días.",
-      "El trabajador puede aceptar o rescindir su contrato con indemnización de 20 días por año trabajado (máximo 12 meses).",
-      "Protege al trabajador frente a traslados forzosos y garantiza compensación en caso de rescisión."
+      "Los trabajadores reciben dos pagas extra al año, en junio y diciembre, equivalentes a un salario mensual.",
+      "Si entras o sales de la empresa durante el año, se recibe la parte proporcional."
     ]
   },
   {
     "articulo": "Artículo 37",
-    "titulo": "Movilidad funcional",
+    "titulo": "Plus de nocturnidad",
     "contenido": [
-      "La empresa puede asignar tareas distintas si son del mismo grupo profesional.",
-      "No puede usarse para degradar al trabajador ni perjudicar sus derechos.",
-      "Si realiza tareas superiores más de 4 meses al año, cobrará el salario correspondiente.",
-      "Permite flexibilidad sin pérdida de derechos ni salario."
+      "Las horas trabajadas de noche (22:00 a 6:00) tienen un pago extra según el nivel salarial.",
+      "Las horas entre 22:00 y 24:00 se pagan un 25% más."
     ]
   },
   {
     "articulo": "Artículo 38",
-    "titulo": "Régimen disciplinario",
+    "titulo": "Plus Puesto para Tiendas",
     "contenido": [
-      "Define las faltas y sanciones aplicables según su gravedad.",
-      "Faltas leves: retrasos, descuidos o pequeñas faltas de puntualidad.",
-      "Faltas graves: ausencias injustificadas, desobediencia, abuso de confianza.",
-      "Faltas muy graves: fraude, robo, acoso, agresión o incumplimientos reiterados.",
-      "Cada falta tiene su sanción proporcional (amonestación, suspensión o despido)."
+      "Los trabajadores con responsabilidad en Tiendas (grupo I) reciben un plus salarial adicional según su nivel."
     ]
   },
   {
     "articulo": "Artículo 39",
-    "titulo": "Representación sindical",
+    "titulo": "Plus jefe de equipo en Fábrica",
     "contenido": [
-      "Los trabajadores pueden elegir delegados o comités de empresa.",
-      "Estos representantes pueden reunirse, informar y negociar con la dirección.",
-      "Disponen de tablones informativos y tiempo sindical según la ley.",
-      "Garantiza la defensa colectiva de los derechos laborales."
+      "Los jefes de equipo en Fábrica reciben un plus por la responsabilidad de gestionar todo un área."
     ]
   },
   {
     "articulo": "Artículo 40",
-    "titulo": "Comisión Paritaria",
+    "titulo": "Uniformidad",
     "contenido": [
-      "Órgano formado por representantes de empresa y trabajadores.",
-      "Sus funciones son interpretar el convenio, resolver conflictos y mediar en desacuerdos.",
-      "Permite evitar acudir a tribunales para cuestiones interpretativas.",
-      "Favorece el diálogo y la solución interna de conflictos."
+      "La empresa proporciona uniformes dos veces al año.",
+      "Si se deterioran, se repone antes de la próxima entrega.",
+      "Los repartidores reciben casco; si usan su propia moto, deben traer casco homologado."
     ]
   },
   {
     "articulo": "Artículo 41",
-    "titulo": "Formación profesional",
+    "titulo": "Seguro de accidentes",
     "contenido": [
-      "La empresa debe fomentar la formación continua del personal.",
-      "Se pueden realizar cursos dentro o fuera del horario laboral.",
-      "Los trabajadores tienen derecho a asistir si la formación está relacionada con su puesto.",
-      "Favorece el desarrollo profesional y mejora la empleabilidad."
+      "La empresa contrata un seguro de accidentes de 25.000 € que cubre fallecimiento o incapacidad durante el trabajo.",
+      "Se entrega copia al Comité Intercentros o representación de trabajadores."
     ]
   },
   {
     "articulo": "Artículo 42",
-    "titulo": "Igualdad y no discriminación",
+    "titulo": "Gastos de vehículo propio",
     "contenido": [
-      "Se prohíbe cualquier discriminación por sexo, edad, origen, orientación sexual, religión o discapacidad.",
-      "Se promueve la igualdad de oportunidades entre hombres y mujeres.",
-      "Especial atención a la igualdad en promoción y retribución.",
-      "Garantiza un entorno laboral justo, inclusivo y respetuoso."
+      "Si un repartidor usa su vehículo, debe mantenerlo en buen estado y legalmente habilitado.",
+      "Los gastos de mantenimiento, seguro y combustible corren a cargo del trabajador, pero la empresa puede abonar un resarcimiento mínimo.",
+      "El vehículo debe ser adecuado para el trabajo y cualquier cambio debe comunicarse a la empresa."
     ]
-
-    },
-
-{
-  "articulo": 41,
-  "titulo": "Seguro de accidentes",
-  "obligacion_empresa": {
-    "descripcion": "Las empresas deberán contratar una póliza de seguro (individual o colectiva) a favor de las personas trabajadoras.",
-    "cobertura": {
-      "importe": 25000,
-      "moneda": "EUR",
-      "beneficiarios": "Trabajador/a o sus beneficiarios",
-      "riesgos_cubiertos": [
-        "Fallecimiento por accidente",
-        "Incapacidad permanente absoluta"
-      ],
-      "ambito": [
-        "Durante la prestación de trabajo",
-        "Accidentes laborales in itinere"
-      ]
-    }
   },
-  "transparencia": {
-    "descripcion": "Se facilitará anualmente copia de la póliza",
-    "destinatarios": [
-      "Comité Intercentros (si existe)",
-      "Representación legal de los trabajadores del centro"
-    ]
-  }
-},
-{
-  "articulo": 42,
-  "titulo": "Gastos vehículo propio",
-  "condiciones_generales": {
-    "vehiculo_propiedad_repartidor": true,
-    "mantenimiento": "El repartidor debe mantener el vehículo en buenas condiciones de uso y estar habilitado legalmente para conducirlo.",
-    "incumplimiento": "El incumplimiento anula la relación laboral pues el vehículo es esencial para la prestación del servicio.",
-    "gastos_a_cargo_repartidor": [
-      "Compra",
-      "Amortización",
-      "Mantenimiento",
-      "Seguro",
-      "Combustible",
-      "Reparaciones",
-      "Casco",
-      "Otros"
-    ],
-    "compensacion_empresa": "La empresa abonará al repartidor los gastos según lo estipulado en este artículo."
-  },
-  "compromisos_repartidor": [
-    "Sustituir o reparar el vehículo en caso de avería.",
-    "Comunicar por escrito a la empresa cualquier cambio de vehículo, que debe ser similar al descrito en el contrato."
-  ],
-  "compensacion": {
-    "concepto": "Aportación de vehículo particular para trabajo",
-    "cuantias": "Según Anexo de Condiciones Económicas (mínimas). Pueden existir acuerdos colectivos en empresa.",
-    "caracter": "No tiene carácter salarial, es un resarcimiento de gastos.",
-    "cotizacion_seguridad_social": "No cotiza."
-  },
-  "referencias": {
-    "multidireccion": "Artículo 13 del convenio"
-  }
-},
-    {
-  "articulo": 43,
-  "titulo": "Permisos retribuidos",
-  "contenido": [
-    "1. Sin perjuicio de los motivos relacionados en el artículo 37 del Estatuto de los Trabajadores, las personas trabajadoras tendrán derecho a permiso retribuido por los motivos relacionados a continuación:",
+  {
+    "articulo": "Artículo 43",
+    "titulo": "Permisos retribuidos",
+    "contenido": [
+       "1. Sin perjuicio de los motivos relacionados en el artículo 37 del Estatuto de los Trabajadores, las personas trabajadoras tendrán derecho a permiso retribuido por los motivos relacionados a continuación:",
     "a) Quince días naturales en caso de matrimonio o en caso de unión de hecho. En este último supuesto, el trabajador o trabajadora deberá aportar el correspondiente certificado de convivencia expedido al efecto por el ayuntamiento u organismo competente.",
     "b) Por el fallecimiento, accidente o enfermedad grave u hospitalización o intervención quirúrgica sin hospitalización que precise reposo domiciliario de parientes hasta segundo grado de consanguinidad o afinidad, de tres, cuatro o cinco días naturales, según el hecho que justifica el permiso se produzca dentro de la misma provincia (tres días), en las provincias limítrofes (cuatro días), en el resto de España o en el extranjero (cinco días.).",
     "Se entenderá por enfermedad grave aquélla que bien venga determinada como tal por el correspondiente facultativo especializado en el parte médico correspondiente o bien la que genere la obligatoriedad del internamiento del familiar en cuestión en centro hospitalario un mínimo de veinticuatro horas.",
@@ -557,8 +482,11 @@
     "6. Las licencias se abonarán con arreglo al salario real, excluyendo gastos de locomoción u otros suplidos.",
     "7. Todos los permisos desarrollados, tanto los expresamente recogidos en este Convenio colectivo como los desarrollados en el artículo 37.3 del Estatuto de los Trabajadores, también serán de aplicación y susceptibles de ser solicitados en los casos de pareja de hecho debidamente inscritas al efecto en los registros oficiales correspondientes, con las particularidades descritas para el anterior apartado a) del punto 1 de este artículo.",
     "8. Para la formación de empleados y empleadas adscritos al grupo profesional I, niveles salariales I y II del Área de Tienda –antiguas categorías de encargados y subencargados–, las empresas dedicarán cinco horas mensuales retribuidas dentro de la jornada laboral durante los primeros diez meses del contrato o del ascenso a tales posiciones, las cuales podrán ser acumuladas por la empresa en los períodos que estime convenientes en atención a necesidades organizativas o productivas de la misma. Disfrutarán del mismo permiso las personas trabajadoras adscritas al grupo profesional II, nivel salarial II del Área de Tienda –personal base y de reparto– a las durante los dos primeros meses de contrato."
-  ]
-},
+    ]
+  },
+
+
+    
     {
   "articulo": 44,
   "titulo": "Permiso no retribuido y recuperable",
