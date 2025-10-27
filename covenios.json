@@ -485,38 +485,117 @@
     ]
   },
 
+  {
+    "articulo": "Artículo 44",
+    "titulo": "Permiso no retribuido y recuperable",
+    "contenido": [
+      "Todos los trabajadores tienen derecho a un día libre al año sin sueldo pero recuperable, por asuntos propios.",
+      "Se debe avisar con al menos 30 días de antelación y la fecha se ajustará si la empresa no puede conceder el día solicitado."
+    ]
+  },
+  {
+    "articulo": "Artículo 45",
+    "titulo": "Suspensión del contrato por nacimiento, adopción, cuidado del menor y riesgo durante embarazo o lactancia",
+    "contenido": [
+      "El nacimiento o adopción suspende el contrato durante 16 semanas para cada progenitor, con seis semanas obligatorias seguidas para la madre.",
+      "Se puede repartir el resto de semanas hasta que el hijo cumpla 12 meses, con posibilidad de jornada completa o parcial.",
+      "Se aplican ampliaciones en caso de nacimiento múltiple, hospitalización del bebé o discapacidad.",
+      "Riesgo durante el embarazo o lactancia permite suspender el contrato hasta nueve meses o hasta que desaparezca el riesgo.",
+      "Si una trabajadora no puede desempeñar su puesto por embarazo, la empresa debe ofrecerle otro compatible manteniendo salario y condiciones."
+    ]
+  },
+  {
+    "articulo": "Artículo 46",
+    "titulo": "Reducción de jornada por guarda legal o cuidado de familiares",
+    "contenido": [
+      "Los trabajadores pueden reducir su jornada diaria para cuidar hijos menores de 12 años, personas con discapacidad o familiares dependientes.",
+      "La reducción puede ser entre un octavo y la mitad de la jornada, con salario proporcional.",
+      "En caso de enfermedades graves de hijos, se puede reducir hasta la mitad de la jornada y mantener esta situación hasta los 23 años del menor si es necesario.",
+      "La empresa puede ajustar el horario y el centro de trabajo para facilitar la reducción."
+    ]
+  },
+  {
+    "articulo": "Artículo 47",
+    "titulo": "Reducción de jornada por cuidado del lactante",
+    "contenido": [
+      "Hasta que el bebé cumpla 9 meses, el trabajador puede ausentarse una hora al día (o dividirla en dos medias horas) para cuidarlo.",
+      "Se puede sustituir esta hora por una reducción de jornada al inicio o final del día.",
+      "El derecho es individual, aunque la empresa puede limitar el ejercicio simultáneo de ambos progenitores por razones organizativas.",
+      "En caso de nacimiento múltiple o adopción, el tiempo se ajusta proporcionalmente.",
+      "Se puede acumular hasta 16 días naturales adicionales a la baja por nacimiento si se solicita con 4 semanas de antelación."
+    ]
+  },
+  {
+    "articulo": "Artículo 48",
+    "titulo": "Elección preferente de turno de trabajo",
+    "contenido": [
+      "Trabajadores con hijos menores de 3 años pueden tener preferencia para elegir su turno de trabajo.",
+      "Debe solicitarse por escrito dentro de los dos meses posteriores a la reincorporación de la baja maternal.",
+      "La empresa puede permitir permutas o cambiar de centro de trabajo dentro de la provincia según acuerdos."
+    ]
+  },
+  {
+    "articulo": "Artículo 49",
+    "titulo": "Excedencias",
+    "contenido": [
+      "Se deben solicitar por escrito con 15 días de antelación.",
+      "Tipos de excedencia:",
+      "  a) Voluntaria: mínimo 4 meses, máximo 5 años, con posibilidad de 2 prórrogas.",
+      "  b) Especial: cuidado de hijos, familiares dependientes, tratamiento de adicciones, cargos sindicales.",
+      "  c) Estudios: 1 mes prorrogable a 2, con reserva del puesto.",
+      "Durante excedencias se suspende el contrato y se mantiene antigüedad en algunos casos; la reserva del puesto se mantiene los primeros 2 años."
+    ]
+  },
+  {
+    "articulo": "Artículo 50",
+    "titulo": "Suspensión y extinción del contrato",
+    "contenido": [
+      "Se aplican causas legales de suspensión y extinción del contrato.",
+      "Si un trabajador de contacto con alimentos tiene enfermedad transmisible, la empresa puede asignarle un puesto compatible o suspender el contrato mientras dure la contingencia."
+    ]
+  },
+  {
+    "articulo": "Artículo 51",
+    "titulo": "Suspensión del permiso de conducción",
+    "contenido": [
+      "Si un repartidor pierde su permiso de conducir:",
+      "  - La empresa le ofrecerá otro puesto compatible o podrá extinguir el contrato si no acepta o no hay vacante.",
+      "  - Se aplican los procedimientos de extinción objetiva del Estatuto de los Trabajadores."
+    ]
+  },
+  {
+    "articulo": "Artículo 52",
+    "titulo": "Otros supuestos de suspensión y extinción del contrato",
+    "contenido": [
+      "Si un repartidor aporta su propio vehículo y deja de estar disponible, tiene 10 días para repararlo.",
+      "La empresa debe facilitar un vehículo propio o un puesto compatible durante un máximo de 2 meses.",
+      "Si pasado ese tiempo el trabajador no aporta vehículo, el contrato puede extinguirse según el Estatuto de los Trabajadores."
+    ]
+  },
+  {
+    "articulo": "Artículo 53",
+    "titulo": "Comisión Sectorial de Seguridad y Salud Laboral",
+    "contenido": [
+      "Se crea una comisión paritaria con representantes de empresas y sindicatos (4 de cada parte).",
+      "Tendrá Presidente y Secretario alternando entre partes cada año.",
+      "Se encargará de la prevención de riesgos laborales y seguridad en el sector.",
+      "Puede acceder a empresas para supervisar, incluso con asesores sindicales, siempre avisando con antelación salvo urgencia.",
+      "Todos los temas deben tratarse primero en la comisión antes de acudir a reclamaciones externas."
+    ]
+  },
+  {
+    "articulo": "Artículo 54",
+    "titulo": "Acoso en el trabajo: Protocolo de actuación",
+    "contenido": [
+      "Define acoso sexual, acoso por razón de sexo y acoso moral como comportamientos que atentan contra la dignidad del trabajador y crean un entorno hostil.",
+      "También se consideran actos discriminatorios por raza, religión, discapacidad, edad, orientación sexual o enfermedad.",
+      "La empresa debe garantizar un entorno de trabajo seguro y tomar medidas al conocer situaciones de acoso, incluyendo sanciones.",
+      "Las denuncias se deben comunicar a la dirección y a la representación de los trabajadores, iniciándose un expediente informativo.",
+      "El proceso debe durar máximo 10 días y respetar la confidencialidad.",
+      "Cualquier acoso confirmado se considera falta muy grave y puede llevar a sanción del responsable."
+    ]
+  }
 
-    
-    {
-  "articulo": 44,
-  "titulo": "Permiso no retribuido y recuperable",
-  "contenido": [
-    "Todas las personas trabajadoras podrán disponer de un permiso no retribuido y recuperable de un día al año por asuntos propios. Dicho permiso no se podrá utilizar ni será acumulable a períodos vacacionales preestablecidos.",
-    "Para el efectivo disfrute del indicado permiso las personas trabajadoras deberán preavisar a su responsable con una antelación mínima de 30 días naturales. Caso de que el día solicitado no fuese factible la concesión y disfrute de dicho permiso, bien por razones organizativas del centro o por cuestiones de índole productivo, se acordará entre el responsable y la persona solicitante la fecha más cercana para su efectiva realización."
-  ]
-},
-    {
-  "articulo": "Artículo 45",
-  "titulo": "Suspensión del contrato por nacimiento, riesgo durante el embarazo o cuidado del lactante, adopción y acogimiento",
-  "contenido": [
-    "El nacimiento, que comprende el parto y el cuidado del menor de doce meses, suspenderá el contrato de trabajo de la madre biológica durante dieciséis semanas, siendo obligatorias las seis semanas ininterrumpidas posteriores al parto, disfrutadas a jornada completa.",
-    "El progenitor distinto de la madre biológica disfrutará también de dieciséis semanas, con las seis primeras obligatorias inmediatamente después del parto.",
-    "En caso de nacimiento múltiple, la suspensión se ampliará en dos semanas adicionales, una para cada progenitor, por cada hijo o hija a partir del segundo.",
-    "Si el hijo o hija fallece, el período de suspensión no se reducirá, salvo que el progenitor solicite reincorporarse tras las seis semanas obligatorias.",
-    "El periodo restante puede distribuirse en semanas, de forma acumulada o interrumpida, hasta que el menor cumpla doce meses, comunicándolo con al menos quince días de antelación.",
-    "En casos de parto prematuro o de hospitalización del neonato, el cómputo podrá iniciarse tras el alta hospitalaria, con posibles ampliaciones de hasta trece semanas.",
-    "En adopción, guarda con fines de adopción o acogimiento, cada adoptante o guardador tendrá derecho a dieciséis semanas de suspensión, ampliables en dos semanas por cada menor a partir del segundo.",
-    "Las seis primeras semanas tras la resolución judicial o administrativa serán obligatorias e ininterrumpidas.",
-    "En adopciones internacionales, el permiso podrá comenzar hasta cuatro semanas antes de la resolución de adopción.",
-    "El derecho es individual e intransferible entre progenitores o adoptantes.",
-    "En caso de discapacidad del menor, se ampliará en dos semanas adicionales para cada progenitor.",
-    "El disfrute podrá ser a jornada completa o parcial, previo acuerdo entre la empresa y la persona trabajadora.",
-    "Durante la suspensión, la persona trabajadora mantendrá el derecho a las mejoras laborales que pudiera obtener.",
-    "En caso de riesgo durante el embarazo o lactancia natural, la suspensión finalizará cuando se inicie el permiso por maternidad o el lactante cumpla nueve meses, o cuando desaparezca la imposibilidad de reincorporarse.",
-    "Si la trabajadora gestante no puede realizar sus tareas habituales, la empresa deberá asignarle tareas compatibles sin modificar su salario, reincorporándola a su puesto al finalizar el periodo correspondiente.",
-    "Lo no previsto en este artículo se regirá por el Estatuto de los Trabajadores y la normativa aplicable."
-  ]
-}
 
 
 
