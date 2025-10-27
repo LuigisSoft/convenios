@@ -692,23 +692,110 @@
       "Domicilios: FeSMC-UGT Madrid y PRODELIVERY Barcelona."
     ]
   },
+  
   {
     "articulo": "Artículo 65",
-    "titulo": "Funciones específicas de la Comisión Paritaria",
+    "titulo": "Funciones de la Comisión Paritaria",
     "contenido": [
-      "Interpretación y aplicación del convenio.",
-      "Mediación, arbitraje y conciliación en conflictos individuales o colectivos.",
-      "Revisión de solicitudes de inaplicación de condiciones y supervisión de actividad principal de empresas.",
-      "Dictamen máximo de 20 días desde la recepción de la solicitud."
+      "Interpretación del presente Convenio en su más amplio sentido.",
+      "Aplicación de lo pactado y vigilancia de su cumplimiento.",
+      "Seguimiento de aquellos acuerdos cuyo desarrollo debe producirse en el tiempo y durante la totalidad de la vigencia de los mismos.",
+      "Mediación, arbitraje y conciliación en caso de conflicto entre Empresa y trabajador/es. Se podrá solicitar reunión inmediata de la Comisión para mediar, interpretar o arbitrar.",
+      "Conocer cuestiones vinculadas con la inaplicación de las condiciones de trabajo según artículo 82.3 del Estatuto de los Trabajadores.",
+      "Conocer previamente y obligatoriamente cualquier controversia o conflicto colectivo antes de la vía administrativa o judicial, especialmente sobre ámbito funcional. Emitirá dictamen máximo 20 días desde la notificación.",
+      "Si surgen discrepancias irresolubles, podrá remitir conflictos colectivos o individuales a la mediación o arbitraje del ASAC.",
+      "Estudio de solicitudes de inaplicación de aumentos salariales pactados por parte de las empresas.",
+      "Depósito y actualización anual de la póliza de seguro descrita en el Convenio, verificando modificaciones económicas.",
+      "Verificación de que la actividad principal de las empresas aplicando el convenio corresponde a preparación y/o elaboración de productos cocinados para reparto a domicilio, mediante escrito acreditativo.",
+      "Verificación de que las tareas de los trabajadores corresponden a lo definido en el capítulo V del convenio, dictamen máximo de 20 días desde la recepción del escrito."
     ]
   },
   {
     "articulo": "Artículo 66",
     "titulo": "Acuerdo de Solución Autónoma de Conflictos (ASAC)",
     "contenido": [
-      "Adhesión obligatoria al ASAC para todas las empresas y trabajadores incluidos en el ámbito del convenio."
+      "Adhesión total y sin condicionamiento al Acuerdo sobre Solución Autónoma de Conflictos Laborales (ASAC) y su Reglamento de Aplicación.",
+      "Vincula a la totalidad de los trabajadores y empresas dentro del ámbito territorial y funcional representado."
+    ]
+  },
+  {
+    "articulo": "Artículo 67",
+    "titulo": "Derechos de los representantes de los trabajadores",
+    "contenido": [
+      "Convocar asambleas de trabajadores fuera de la jornada laboral, previa notificación al empresario.",
+      "Difundir publicaciones y avisos sindicales según LOLS.",
+      "Fijar comunicaciones y anuncios en tablones de la empresa garantizando acceso a todos los trabajadores, no en dependencias de acceso público.",
+      "Recaudar cotizaciones sindicales y otras aportaciones con fines sindicales.",
+      "Solicitar excedencia sindical por tiempo necesario con reserva obligatoria del puesto de trabajo según LOLS.",
+      "En todo lo no previsto, regirse por la legislación vigente."
+    ]
+  },
+  {
+    "articulo": "Artículo 68",
+    "titulo": "Comité Intercentros",
+    "contenido": [
+      "Se podrá constituir en empresas con dispersión de centros en varias provincias para resolver materias generales que afecten a varios centros.",
+      "Se aplicará artículo 65 del Estatuto de los Trabajadores sobre capacidad y sigilo profesional.",
+      "Número máximo de miembros: 13, designados de los distintos Comités guardando proporcionalidad sindical.",
+      "Distribución de puestos entre sindicatos según artículo 71.2.b del Estatuto de los Trabajadores.",
+      "Asume competencias de los artículos 64 y 41 del Estatuto cuando las medidas afecten a más de un centro y deben tratarse con carácter general."
+    ]
+  },
+  {
+    "articulo": "Artículo 69",
+    "titulo": "Acumulación de horas sindicales",
+    "contenido": [
+      "Horas sindicales mensuales de representantes legales pueden acumularse anualmente hasta el 100% de su jornada, con máximo de nueve personas liberadas por empresa.",
+      "Reparto según representatividad del sindicato a nivel estatal.",
+      "Gestión de bolsa de horas por sindicatos, notificando a la empresa la acumulación y trabajadores liberados.",
+      "Cálculo del crédito horario anual multiplicando el mensual por once meses.",
+      "Exceso de horas se comunicará con 3 meses de antelación, uso máximo 80% de la jornada del representante."
+    ]
+  },
+  {
+    "articulo": "Artículo 70",
+    "titulo": "Secciones Sindicales",
+    "contenido": [
+      "Reconocimiento de Secciones Sindicales como entes representativos dentro de la empresa.",
+      "Constitución según artículo 8 de la LOLS y estatutos de cada sindicato.",
+      "Para empresas con 175 o más trabajadores, los afiliados pueden constituir secciones con derechos y garantías del artículo 10 de la LOLS.",
+      "Derecho a repartir información sindical, cobrar cuotas, convocar y celebrar asambleas fuera del horario laboral."
+    ]
+  },
+  {
+    "articulo": "Artículo 71",
+    "titulo": "Igualdad de oportunidades. Principios generales",
+    "contenido": [
+      "Garantizar igualdad real y efectiva de trato y oportunidades en las empresas.",
+      "Establecer directrices para planes de igualdad en empresas obligadas y en empresas de más de 50 trabajadores.",
+      "Constituir comisión sectorial de igualdad y no discriminación con competencias del artículo 75."
+    ]
+  },
+  {
+    "articulo": "Artículo 72",
+    "titulo": "Planes de igualdad",
+    "contenido": [
+      "Obligatoriedad de negociar/acordar planes de igualdad en empresas >50 trabajadores según RDL 6/2019.",
+      "Participación de representación de trabajadores en diagnóstico, objetivos, medidas y acciones.",
+      "Empresas aportarán información sobre retribución mensual desglosada por género."
+    ]
+  },
+  {
+    "articulo": "Artículo 73",
+    "titulo": "Comisión para la igualdad de oportunidades y no discriminación",
+    "contenido": [
+      "Constitución en el trimestre siguiente a la publicación del convenio, integrada por representación empresarial y sindicatos.",
+      "Se dotará de reglamento interno de funcionamiento.",
+      "Funciones: velar por igualdad en empleo, formación, promoción y desarrollo.",
+      "Velar por equiparación salarial entre mujeres y hombres a igual trabajo o de igual valor.",
+      "Velar por igualdad en ascensos y funciones de mayor responsabilidad.",
+      "Seguimiento de planes de igualdad acordados en empresas del sector.",
+      "Elaboración de dictámenes técnicos sobre igualdad a solicitud de la Comisión Mixta.",
+      "Estudios específicos sobre igualdad en el sector mediante encuesta sectorial con datos desagregados por género."
     ]
   }
+
+
 
 
 
