@@ -594,7 +594,123 @@
       "El proceso debe durar máximo 10 días y respetar la confidencialidad.",
       "Cualquier acoso confirmado se considera falta muy grave y puede llevar a sanción del responsable."
     ]
+  },
+    
+  {
+    "articulo": "Artículo 55",
+    "titulo": "Protección a las personas trabajadoras víctimas de la violencia de género",
+    "contenido": [
+      "Derecho a cambio de puesto de trabajo si cambian de residencia.",
+      "Permisos retribuidos para gestiones, asistencia a juicios o tratamientos psicológicos.",
+      "Suspensión laboral con reserva del puesto y jornadas flexibles para normalizar la situación.",
+      "Anticipación del periodo vacacional."
+    ]
+  },
+  {
+    "articulo": "Artículo 56",
+    "titulo": "Gestión de la diversidad de origen",
+    "contenido": [
+      "Se recomienda promover planes de diversidad en empresas con trabajadores inmigrantes.",
+      "Incrementa la competitividad y eficiencia de la empresa.",
+      "Forma parte de la responsabilidad social empresarial."
+    ]
+  },
+  {
+    "articulo": "Artículo 57",
+    "titulo": "Derecho a la intimidad en relación con el entorno digital y desconexión digital",
+    "contenido": [
+      "Derecho al descanso tras jornada laboral y vacaciones, respetando vida familiar y personal.",
+      "Elaboración de protocolo interno sobre uso de medios digitales con la representación de los trabajadores.",
+      "Campañas de sensibilización sobre desconexión digital y uso responsable de comunicaciones.",
+      "Derecho a la intimidad frente a dispositivos digitales, videovigilancia y geolocalización según la legislación vigente."
+    ]
+  },
+  {
+    "articulo": "Artículo 58",
+    "titulo": "Incapacidad temporal",
+    "contenido": [
+      "Complemento salarial para IT derivada de accidente laboral, enfermedad profesional, hospitalización tras cirugía o enfermedades oncológicas hasta 12 meses.",
+      "IT por accidente no laboral o enfermedad común: complemento desde el 4º día hasta 4 meses, condicionado a que el índice de absentismo del centro sea menor del 5%.",
+      "Excepciones a absentismo: hospitalización >10 días o tratamientos de quimio/radioterapia."
+    ]
+  },
+  {
+    "articulo": "Artículo 59",
+    "titulo": "Definición",
+    "contenido": [
+      "Se considera falta cualquier acción u omisión que incumpla deberes legales o del convenio.",
+      "La gravedad se determina por consecuencias, intención y publicidad."
+    ]
+  },
+  {
+    "articulo": "Artículo 60",
+    "titulo": "Faltas leves",
+    "contenido": [
+      "Retrasos <15 minutos o 15 minutos según el caso.",
+      "No notificar ausencia sin causa justificada.",
+      "Abandono breve de trabajo o errores menores que no afecten gravemente al servicio.",
+      "No comunicar cambios de domicilio, no usar uniformes o distintivos correctamente, falta de aseo."
+    ]
+  },
+  {
+    "articulo": "Artículo 61",
+    "titulo": "Faltas graves",
+    "contenido": [
+      "Ausencias reiteradas, retrasos importantes.",
+      "Incumplimiento de órdenes que cause perjuicio grave.",
+      "Simulación de asistencia, negligencia grave, embriaguez, maltrato a compañeros o público.",
+      "No cumplir procedimientos médicos durante baja, retraso en entrega de documentos, descuido en mercancía."
+    ]
+  },
+  {
+    "articulo": "Artículo 62",
+    "titulo": "Faltas muy graves",
+    "contenido": [
+      "Reincidencia en faltas graves, fraude, hurto o robo.",
+      "Simulación de enfermedad, hostigamiento sexual, abandono de puestos críticos.",
+      "Falsificación de documentos, daños a materiales o vehículos de empresa.",
+      "Disminución reiterada de rendimiento o imprudencia con riesgo para personas o instalaciones."
+    ]
+  },
+  {
+    "articulo": "Artículo 63",
+    "titulo": "Sanciones",
+    "contenido": [
+      "Faltas leves: amonestación escrita o suspensión 1–3 días.",
+      "Faltas graves: suspensión 4–15 días.",
+      "Faltas muy graves: suspensión 16–90 días o despido disciplinario.",
+      "Plazos de prescripción: leves 2 meses, graves 3 meses, muy graves 6 meses desde que la empresa tuvo conocimiento de la falta."
+    ]
+  },
+  {
+    "articulo": "Artículo 64",
+    "titulo": "Comisión Paritaria",
+    "contenido": [
+      "Formada por 4 representantes sindicales y 4 de empresarios con suplentes.",
+      "Funciones: interpretación del convenio, seguimiento de acuerdos, mediación y arbitraje en conflictos.",
+      "Acuerdos requieren al menos 60% de votos favorables de cada representación.",
+      "Domicilios: FeSMC-UGT Madrid y PRODELIVERY Barcelona."
+    ]
+  },
+  {
+    "articulo": "Artículo 65",
+    "titulo": "Funciones específicas de la Comisión Paritaria",
+    "contenido": [
+      "Interpretación y aplicación del convenio.",
+      "Mediación, arbitraje y conciliación en conflictos individuales o colectivos.",
+      "Revisión de solicitudes de inaplicación de condiciones y supervisión de actividad principal de empresas.",
+      "Dictamen máximo de 20 días desde la recepción de la solicitud."
+    ]
+  },
+  {
+    "articulo": "Artículo 66",
+    "titulo": "Acuerdo de Solución Autónoma de Conflictos (ASAC)",
+    "contenido": [
+      "Adhesión obligatoria al ASAC para todas las empresas y trabajadores incluidos en el ámbito del convenio."
+    ]
   }
+
+
 
 
 
